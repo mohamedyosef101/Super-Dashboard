@@ -8,7 +8,9 @@ The growth of supermarkets in most populated cities are increasing and market co
  **Deployed on:**
  <br> Streamlit: https://super-dashboard.streamlit.app
 
-## About the dataset
+<hr>
+
+# About the dataset
 The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data.
 [Visit Data Source](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
@@ -102,4 +104,4 @@ with st.sidebar:
 
 <hr>
 
-<p>&copy; All rights reserved. MohamedYosef101</p>#
+<p>&copy; All rights reserved. MohamedYosef101</p>
