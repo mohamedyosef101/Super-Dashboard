@@ -3,6 +3,9 @@ The growth of supermarkets in most populated cities are increasing and market co
 
 **Designed by:**
  <br>@mohamedyosef101 : https://linkedin.com/in/mohamedyosef101
+ <br>
+ **Deployed on:**
+ <br> Streamlit: https://super-dashboard.streamlit.app
 
 ### About the dataset
 The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data.
