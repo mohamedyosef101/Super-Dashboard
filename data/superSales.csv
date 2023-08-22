@@ -1,0 +1,1001 @@
+Invoice_ID,Branch,City,Product_line,Unit_price,Quantity,Tax_5,Total_price,Order_date,Order_time,Payment_method,costs,gross_income,Rating
+101-17-6199,A,Plymouth,Food and beverages,45.79,7,16.03,336.56,2023-03-13,19:44:00,Credit card,320.53,16.03,7.00
+101-81-4070,C,Glasgow,Health and beauty,62.82,2,6.28,131.92,2023-01-17,12:36:00,Ewallet,125.64,6.28,4.90
+102-06-2002,C,Glasgow,Sports and travel,25.25,5,6.31,132.56,2023-03-20,17:52:00,Cash,126.25,6.31,6.10
+102-77-2261,C,Glasgow,Health and beauty,65.31,7,22.86,480.03,2023-03-05,18:02:00,Credit card,457.17,22.86,4.20
+105-10-6182,A,Plymouth,Fashion accessories,21.48,2,2.15,45.11,2023-02-27,12:22:00,Ewallet,42.96,2.15,6.60
+105-31-1824,A,Plymouth,Sports and travel,69.52,7,24.33,510.97,2023-02-01,15:10:00,Credit card,486.64,24.33,8.50
+106-35-6779,A,Plymouth,Home and lifestyle,44.34,2,4.43,93.11,2023-03-27,11:26:00,Cash,88.68,4.43,5.80
+109-28-2512,B,Bristol,Fashion accessories,97.61,6,29.28,614.94,2023-01-07,15:01:00,Ewallet,585.66,29.28,9.90
+109-86-4363,B,Bristol,Sports and travel,60.08,7,21.03,441.59,2023-02-14,11:36:00,Credit card,420.56,21.03,4.50
+110-05-6330,C,Glasgow,Food and beverages,39.43,6,11.83,248.41,2023-03-25,20:18:00,Credit card,236.58,11.83,9.40
+110-48-7033,B,Bristol,Fashion accessories,32.62,4,6.52,137.00,2023-01-29,14:12:00,Cash,130.48,6.52,9.00
+114-35-5271,B,Bristol,Electronic accessories,57.91,8,23.16,486.44,2023-02-07,15:06:00,Cash,463.28,23.16,8.10
+115-38-7388,C,Glasgow,Fashion accessories,10.18,8,4.07,85.51,2023-03-30,12:51:00,Credit card,81.44,4.07,9.50
+115-99-4379,B,Bristol,Fashion accessories,54.73,7,19.16,402.27,2023-03-14,19:02:00,Credit card,383.11,19.16,8.50
+118-62-1812,C,Glasgow,Home and lifestyle,78.38,4,15.68,329.20,2023-03-24,17:56:00,Cash,313.52,15.68,7.90
+120-06-4233,C,Glasgow,Electronic accessories,30.61,6,9.18,192.84,2023-03-12,20:36:00,Cash,183.66,9.18,9.30
+120-54-2248,B,Bristol,Food and beverages,28.86,5,7.22,151.51,2023-01-22,18:08:00,Credit card,144.30,7.22,8.00
+122-61-9553,C,Glasgow,Electronic accessories,51.32,9,23.09,484.97,2023-03-14,19:33:00,Cash,461.88,23.09,5.60
+123-19-1176,A,Plymouth,Health and beauty,58.22,8,23.29,489.05,2023-01-27,20:33:00,Ewallet,465.76,23.29,8.40
+123-35-4896,C,Glasgow,Sports and travel,46.66,9,21.00,440.94,2023-02-17,19:11:00,Ewallet,419.94,21.00,5.30
+124-31-1458,A,Plymouth,Electronic accessories,79.59,3,11.94,250.71,2023-01-08,14:30:00,Cash,238.77,11.94,6.60
+125-45-2293,A,Plymouth,Fashion accessories,99.10,6,29.73,624.33,2023-01-19,13:11:00,Cash,594.60,29.73,4.20
+126-54-1082,A,Plymouth,Home and lifestyle,21.54,9,9.69,203.55,2023-01-07,11:44:00,Credit card,193.86,9.69,8.80
+127-47-6963,A,Plymouth,Health and beauty,51.71,4,10.34,217.18,2023-03-09,13:53:00,Credit card,206.84,10.34,9.80
+129-29-8530,A,Plymouth,Sports and travel,62.62,5,15.65,328.76,2023-03-10,19:15:00,Ewallet,313.10,15.65,7.00
+130-67-4723,A,Plymouth,Food and beverages,48.50,6,14.55,305.55,2023-01-11,13:57:00,Ewallet,291.00,14.55,9.40
+130-98-8941,C,Glasgow,Fashion accessories,64.26,7,22.49,472.31,2023-02-09,10:00:00,Cash,449.82,22.49,5.70
+131-15-8856,C,Glasgow,Food and beverages,72.52,8,29.01,609.17,2023-03-30,19:26:00,Credit card,580.16,29.01,4.00
+131-70-8179,A,Plymouth,Health and beauty,92.09,3,13.81,290.08,2023-02-17,16:27:00,Cash,276.27,13.81,4.20
+132-23-6451,A,Plymouth,Health and beauty,20.97,5,5.24,110.09,2023-01-04,13:21:00,Cash,104.85,5.24,7.80
+132-32-9879,B,Bristol,Electronic accessories,93.96,4,18.79,394.63,2023-03-09,18:00:00,Cash,375.84,18.79,9.50
+133-14-7229,C,Glasgow,Health and beauty,62.87,2,6.29,132.03,2023-01-01,11:43:00,Cash,125.74,6.29,5.00
+133-77-3154,B,Bristol,Fashion accessories,60.18,4,12.04,252.76,2023-02-16,18:04:00,Credit card,240.72,12.04,9.40
+134-54-4720,B,Bristol,Electronic accessories,42.42,8,16.97,356.33,2023-01-30,13:58:00,Ewallet,339.36,16.97,5.70
+134-75-2619,A,Plymouth,Electronic accessories,19.32,7,6.76,142.00,2023-03-25,18:51:00,Cash,135.24,6.76,6.90
+135-13-8269,B,Bristol,Food and beverages,78.88,2,7.89,165.65,2023-01-26,16:04:00,Cash,157.76,7.89,9.10
+135-84-8019,A,Plymouth,Fashion accessories,77.93,9,35.07,736.44,2023-02-27,16:10:00,Ewallet,701.37,35.07,7.60
+136-08-6195,A,Plymouth,Home and lifestyle,69.96,8,27.98,587.66,2023-02-15,17:01:00,Credit card,559.68,27.98,6.40
+137-63-5492,C,Glasgow,Electronic accessories,58.76,10,29.38,616.98,2023-01-29,14:26:00,Ewallet,587.60,29.38,9.00
+137-74-8729,C,Glasgow,Fashion accessories,12.19,8,4.88,102.40,2023-03-13,12:47:00,Ewallet,97.52,4.88,6.80
+138-17-5109,A,Plymouth,Home and lifestyle,89.21,9,40.14,843.03,2023-01-15,15:42:00,Credit card,802.89,40.14,6.50
+139-20-0155,B,Bristol,Electronic accessories,40.30,10,20.15,423.15,2023-01-24,17:37:00,Credit card,403.00,20.15,7.00
+139-32-4183,A,Plymouth,Sports and travel,97.48,9,43.87,921.19,2023-03-14,14:19:00,Ewallet,877.32,43.87,7.40
+139-52-2867,C,Glasgow,Fashion accessories,22.51,7,7.88,165.45,2023-02-13,10:50:00,Credit card,157.57,7.88,4.80
+142-63-6033,B,Bristol,Home and lifestyle,92.36,5,23.09,484.89,2023-03-20,19:17:00,Ewallet,461.80,23.09,4.90
+142-72-4741,C,Glasgow,Fashion accessories,93.20,2,9.32,195.72,2023-02-28,18:37:00,Credit card,186.40,9.32,6.00
+144-51-6085,A,Plymouth,Home and lifestyle,70.74,4,14.15,297.11,2023-01-05,16:05:00,Credit card,282.96,14.15,4.40
+145-94-9061,B,Bristol,Food and beverages,88.36,5,22.09,463.89,2023-01-25,19:48:00,Cash,441.80,22.09,9.60
+146-09-5432,A,Plymouth,Food and beverages,35.04,9,15.77,331.13,2023-02-09,19:17:00,Ewallet,315.36,15.77,4.60
+148-41-7930,C,Glasgow,Health and beauty,99.96,7,34.99,734.71,2023-01-23,10:33:00,Cash,699.72,34.99,6.10
+148-82-2527,C,Glasgow,Home and lifestyle,12.12,10,6.06,127.26,2023-03-05,13:44:00,Credit card,121.20,6.06,8.40
+149-14-0304,C,Glasgow,Health and beauty,28.50,8,11.40,239.40,2023-02-06,14:24:00,Cash,228.00,11.40,6.60
+149-15-7606,B,Bristol,Sports and travel,37.32,9,16.79,352.67,2023-03-06,15:31:00,Ewallet,335.88,16.79,5.10
+149-61-1929,A,Plymouth,Sports and travel,64.19,10,32.10,673.99,2023-01-19,14:08:00,Credit card,641.90,32.10,6.70
+149-71-6266,B,Bristol,Sports and travel,78.07,9,35.13,737.76,2023-01-28,12:43:00,Cash,702.63,35.13,4.50
+150-89-8043,A,Plymouth,Sports and travel,44.65,3,6.70,140.65,2023-02-14,15:04:00,Cash,133.95,6.70,6.20
+151-16-1484,A,Plymouth,Electronic accessories,32.25,4,6.45,135.45,2023-02-13,12:38:00,Ewallet,129.00,6.45,6.50
+151-27-8496,C,Glasgow,Electronic accessories,56.13,4,11.23,235.75,2023-01-19,11:43:00,Ewallet,224.52,11.23,8.60
+151-33-7434,B,Bristol,Food and beverages,67.77,1,3.39,71.16,2023-02-04,20:43:00,Credit card,67.77,3.39,6.50
+152-03-4217,B,Bristol,Home and lifestyle,11.28,9,5.08,106.60,2023-03-17,11:55:00,Credit card,101.52,5.08,4.30
+152-08-9985,B,Bristol,Health and beauty,64.36,9,28.96,608.20,2023-03-12,12:09:00,Credit card,579.24,28.96,8.60
+152-68-2907,A,Plymouth,Food and beverages,52.20,3,7.83,164.43,2023-02-15,13:30:00,Credit card,156.60,7.83,9.50
+153-58-4872,C,Glasgow,Food and beverages,74.89,4,14.98,314.54,2023-03-01,15:32:00,Ewallet,299.56,14.98,4.20
+154-74-7179,B,Bristol,Sports and travel,54.45,1,2.72,57.17,2023-02-26,19:24:00,Ewallet,54.45,2.72,7.90
+154-87-7367,C,Glasgow,Home and lifestyle,65.26,8,26.10,548.18,2023-03-15,14:04:00,Ewallet,522.08,26.10,6.30
+155-45-3814,C,Glasgow,Electronic accessories,88.55,8,35.42,743.82,2023-03-19,15:29:00,Ewallet,708.40,35.42,4.70
+156-20-0370,B,Bristol,Electronic accessories,25.45,1,1.27,26.72,2023-03-10,18:10:00,Credit card,25.45,1.27,5.10
+156-95-3964,A,Plymouth,Food and beverages,55.39,4,11.08,232.64,2023-03-25,15:19:00,Ewallet,221.56,11.08,8.00
+157-13-5295,A,Plymouth,Health and beauty,51.94,10,25.97,545.37,2023-03-09,18:24:00,Ewallet,519.40,25.97,6.50
+160-22-2687,A,Plymouth,Health and beauty,95.95,5,23.99,503.74,2023-01-23,14:21:00,Ewallet,479.75,23.99,8.80
+162-48-8011,A,Plymouth,Food and beverages,44.59,5,11.15,234.10,2023-02-10,15:10:00,Cash,222.95,11.15,8.50
+162-65-8559,C,Glasgow,Food and beverages,68.98,1,3.45,72.43,2023-01-21,20:13:00,Cash,68.98,3.45,4.80
+163-56-7055,C,Glasgow,Fashion accessories,48.71,1,2.44,51.15,2023-03-26,19:20:00,Cash,48.71,2.44,4.10
+166-19-2553,A,Plymouth,Sports and travel,89.06,6,26.72,561.08,2023-01-18,17:26:00,Cash,534.36,26.72,9.90
+169-52-4504,A,Plymouth,Electronic accessories,15.69,3,2.35,49.42,2023-03-14,14:13:00,Credit card,47.07,2.35,5.80
+172-42-8274,B,Bristol,Electronic accessories,38.27,2,3.83,80.37,2023-03-02,18:18:00,Credit card,76.54,3.83,5.80
+173-50-1108,B,Bristol,Sports and travel,20.18,4,4.04,84.76,2023-02-13,12:14:00,Credit card,80.72,4.04,5.00
+173-57-2300,C,Glasgow,Sports and travel,72.88,2,7.29,153.05,2023-03-13,12:51:00,Cash,145.76,7.29,6.10
+173-82-9529,B,Bristol,Fashion accessories,37.95,10,18.98,398.48,2023-01-26,14:51:00,Cash,379.50,18.98,9.70
+174-36-3675,C,Glasgow,Food and beverages,99.37,2,9.94,208.68,2023-02-14,17:29:00,Cash,198.74,9.94,5.20
+174-64-0215,B,Bristol,Sports and travel,69.74,10,34.87,732.27,2023-03-05,17:49:00,Credit card,697.40,34.87,8.90
+174-75-0888,B,Bristol,Electronic accessories,21.58,9,9.71,203.93,2023-03-14,12:32:00,Cash,194.22,9.71,7.30
+175-54-2529,A,Plymouth,Food and beverages,22.17,8,8.87,186.23,2023-03-03,17:01:00,Credit card,177.36,8.87,9.60
+176-64-7711,B,Bristol,Food and beverages,32.32,3,4.85,101.81,2023-03-27,19:11:00,Credit card,96.96,4.85,4.30
+176-78-1170,C,Glasgow,Health and beauty,33.81,3,5.07,106.50,2023-01-26,15:11:00,Ewallet,101.43,5.07,7.30
+181-82-6255,B,Bristol,Home and lifestyle,16.37,6,4.91,103.13,2023-02-08,10:58:00,Cash,98.22,4.91,7.00
+181-94-6432,C,Glasgow,Fashion accessories,69.33,2,6.93,145.59,2023-02-05,19:05:00,Ewallet,138.66,6.93,9.70
+182-52-7000,A,Plymouth,Sports and travel,27.04,4,5.41,113.57,2023-01-01,20:26:00,Ewallet,108.16,5.41,6.90
+182-69-8360,B,Bristol,Electronic accessories,23.65,4,4.73,99.33,2023-01-30,13:32:00,Credit card,94.60,4.73,4.00
+182-88-2763,B,Bristol,Food and beverages,79.91,3,11.99,251.72,2023-03-20,19:28:00,Credit card,239.73,11.99,5.00
+183-21-3799,C,Glasgow,Electronic accessories,77.63,9,34.93,733.60,2023-02-19,15:14:00,Ewallet,698.67,34.93,7.20
+183-56-6882,C,Glasgow,Food and beverages,99.42,4,19.88,417.56,2023-02-06,10:42:00,Ewallet,397.68,19.88,7.50
+186-09-3669,C,Glasgow,Health and beauty,81.51,1,4.08,85.59,2023-01-22,10:57:00,Ewallet,81.51,4.08,9.20
+186-43-8965,A,Plymouth,Home and lifestyle,47.68,2,4.77,100.13,2023-02-24,10:10:00,Credit card,95.36,4.77,4.10
+186-71-5196,A,Plymouth,Food and beverages,79.54,2,7.95,167.03,2023-03-27,16:30:00,Ewallet,159.08,7.95,6.20
+186-79-9562,B,Bristol,Health and beauty,71.77,7,25.12,527.51,2023-03-29,14:06:00,Cash,502.39,25.12,8.90
+187-83-5490,A,Plymouth,Electronic accessories,20.77,4,4.15,87.23,2023-01-31,13:47:00,Cash,83.08,4.15,4.70
+188-55-0967,B,Bristol,Health and beauty,66.47,10,33.24,697.93,2023-01-15,15:01:00,Credit card,664.70,33.24,5.00
+189-08-9157,C,Glasgow,Fashion accessories,31.73,9,14.28,299.85,2023-01-08,16:17:00,Credit card,285.57,14.28,5.90
+189-17-4241,A,Plymouth,Fashion accessories,87.67,2,8.77,184.11,2023-03-10,12:17:00,Credit card,175.34,8.77,7.70
+189-40-5216,C,Glasgow,Electronic accessories,96.37,7,33.73,708.32,2023-01-09,11:40:00,Cash,674.59,33.73,6.00
+189-52-0236,A,Plymouth,Electronic accessories,99.55,7,34.84,731.69,2023-03-14,12:07:00,Cash,696.85,34.84,7.60
+189-55-2313,C,Glasgow,Fashion accessories,62.18,10,31.09,652.89,2023-01-31,10:33:00,Ewallet,621.80,31.09,6.00
+189-98-2939,C,Glasgow,Fashion accessories,78.55,9,35.35,742.30,2023-03-01,13:22:00,Cash,706.95,35.35,7.20
+190-14-3147,B,Bristol,Health and beauty,17.97,4,3.59,75.47,2023-02-23,20:43:00,Ewallet,71.88,3.59,6.40
+190-59-3964,B,Bristol,Food and beverages,47.16,5,11.79,247.59,2023-02-03,14:35:00,Credit card,235.80,11.79,6.00
+191-10-6171,B,Bristol,Fashion accessories,39.62,7,13.87,291.21,2023-01-25,13:18:00,Cash,277.34,13.87,7.50
+191-29-0321,B,Bristol,Fashion accessories,19.77,10,9.89,207.59,2023-02-27,18:57:00,Credit card,197.70,9.89,5.00
+192-98-7397,C,Glasgow,Fashion accessories,12.78,1,.64,13.42,2023-01-08,14:11:00,Ewallet,12.78,.64,9.50
+195-06-0432,A,Plymouth,Home and lifestyle,81.01,3,12.15,255.18,2023-01-13,12:55:00,Credit card,243.03,12.15,9.30
+196-01-2849,C,Glasgow,Fashion accessories,73.38,7,25.68,539.34,2023-02-10,13:56:00,Cash,513.66,25.68,9.50
+197-77-7132,B,Bristol,Electronic accessories,91.56,8,36.62,769.10,2023-01-12,18:22:00,Ewallet,732.48,36.62,6.00
+198-66-9832,B,Bristol,Fashion accessories,72.04,2,7.20,151.28,2023-02-04,19:38:00,Cash,144.08,7.20,9.50
+198-84-7132,B,Bristol,Fashion accessories,40.61,9,18.27,383.76,2023-01-02,13:40:00,Cash,365.49,18.27,7.00
+199-75-8169,A,Plymouth,Sports and travel,15.81,10,7.91,166.01,2023-03-06,12:27:00,Credit card,158.10,7.91,8.60
+200-16-5952,C,Glasgow,Food and beverages,65.65,2,6.57,137.87,2023-01-17,16:46:00,Cash,131.30,6.57,6.00
+200-40-6154,B,Bristol,Home and lifestyle,65.91,6,19.77,415.23,2023-02-09,11:45:00,Cash,395.46,19.77,5.70
+201-63-8275,C,Glasgow,Sports and travel,67.99,7,23.80,499.73,2023-02-17,16:50:00,Ewallet,475.93,23.80,5.70
+201-86-2184,B,Bristol,Electronic accessories,26.26,7,9.19,193.01,2023-02-02,19:40:00,Cash,183.82,9.19,9.90
+207-73-1363,B,Bristol,Health and beauty,69.51,2,6.95,145.97,2023-03-01,12:15:00,Ewallet,139.02,6.95,8.10
+209-61-0206,A,Plymouth,Home and lifestyle,42.91,5,10.73,225.28,2023-01-05,17:29:00,Ewallet,214.55,10.73,6.10
+210-30-7976,B,Bristol,Fashion accessories,22.32,4,4.46,93.74,2023-03-14,11:16:00,Ewallet,89.28,4.46,4.10
+210-57-1719,B,Bristol,Health and beauty,58.24,9,26.21,550.37,2023-02-05,12:34:00,Cash,524.16,26.21,9.70
+210-67-5886,C,Glasgow,Health and beauty,98.21,3,14.73,309.36,2023-02-05,10:41:00,Credit card,294.63,14.73,7.80
+210-74-9613,C,Glasgow,Fashion accessories,97.26,4,19.45,408.49,2023-03-16,15:33:00,Ewallet,389.04,19.45,6.80
+211-05-0490,C,Glasgow,Electronic accessories,51.92,5,12.98,272.58,2023-03-03,13:42:00,Cash,259.60,12.98,7.50
+211-30-9270,C,Glasgow,Health and beauty,17.41,5,4.35,91.40,2023-01-28,15:16:00,Credit card,87.05,4.35,4.90
+212-62-1842,A,Plymouth,Food and beverages,58.26,6,17.48,367.04,2023-03-28,16:44:00,Cash,349.56,17.48,9.90
+213-32-1216,A,Plymouth,Electronic accessories,66.06,6,19.82,416.18,2023-01-23,10:28:00,Cash,396.36,19.82,7.30
+213-72-6612,A,Plymouth,Food and beverages,43.25,2,4.32,90.82,2023-03-20,15:56:00,Cash,86.50,4.32,6.20
+214-17-6927,C,Glasgow,Food and beverages,16.48,6,4.94,103.82,2023-02-07,18:23:00,Ewallet,98.88,4.94,9.90
+214-30-2776,B,Bristol,Electronic accessories,34.49,5,8.62,181.07,2023-03-11,19:44:00,Credit card,172.45,8.62,9.00
+217-58-1179,A,Plymouth,Home and lifestyle,62.65,4,12.53,263.13,2023-01-05,11:25:00,Cash,250.60,12.53,4.20
+218-59-9410,A,Plymouth,Home and lifestyle,72.42,3,10.86,228.12,2023-03-29,16:54:00,Ewallet,217.26,10.86,8.20
+219-22-9386,B,Bristol,Sports and travel,99.96,9,44.98,944.62,2023-03-09,17:26:00,Credit card,899.64,44.98,4.20
+219-61-4139,C,Glasgow,Electronic accessories,83.08,1,4.15,87.23,2023-01-23,17:16:00,Ewallet,83.08,4.15,6.40
+220-28-1851,A,Plymouth,Home and lifestyle,34.73,2,3.47,72.93,2023-03-01,18:14:00,Ewallet,69.46,3.47,9.70
+220-68-6701,A,Plymouth,Home and lifestyle,77.47,4,15.49,325.37,2023-03-17,16:36:00,Cash,309.88,15.49,4.20
+221-25-5073,A,Plymouth,Food and beverages,74.66,4,14.93,313.57,2023-03-04,10:39:00,Cash,298.64,14.93,8.50
+222-42-0244,B,Bristol,Health and beauty,72.11,9,32.45,681.44,2023-01-28,13:53:00,Credit card,648.99,32.45,7.70
+225-32-0908,C,Glasgow,Sports and travel,44.86,10,22.43,471.03,2023-01-26,19:54:00,Ewallet,448.60,22.43,8.20
+225-98-1496,C,Glasgow,Fashion accessories,27.02,3,4.05,85.11,2023-03-02,13:01:00,Credit card,81.06,4.05,7.10
+226-31-3081,C,Glasgow,Electronic accessories,15.28,5,3.82,80.22,2023-03-08,10:29:00,Cash,76.40,3.82,9.60
+226-34-0034,B,Bristol,Electronic accessories,13.78,4,2.76,57.88,2023-01-10,11:10:00,Ewallet,55.12,2.76,9.00
+226-71-3580,C,Glasgow,Sports and travel,23.75,9,10.69,224.44,2023-01-31,12:02:00,Cash,213.75,10.69,9.50
+227-03-5010,A,Plymouth,Home and lifestyle,52.59,8,21.04,441.76,2023-03-22,19:20:00,Credit card,420.72,21.04,8.50
+227-07-4446,C,Glasgow,Electronic accessories,78.13,10,39.06,820.36,2023-02-10,20:51:00,Cash,781.30,39.06,4.40
+227-50-3718,A,Plymouth,Health and beauty,14.62,5,3.65,76.75,2023-03-04,12:23:00,Cash,73.10,3.65,4.40
+227-78-1148,B,Bristol,Fashion accessories,72.84,7,25.49,535.37,2023-02-15,12:44:00,Cash,509.88,25.49,8.40
+228-96-1411,C,Glasgow,Food and beverages,98.70,8,39.48,829.08,2023-03-04,20:39:00,Cash,789.60,39.48,7.60
+232-11-3025,A,Plymouth,Sports and travel,78.77,10,39.38,827.09,2023-01-24,10:04:00,Cash,787.70,39.38,6.40
+232-16-2483,C,Glasgow,Sports and travel,68.12,1,3.41,71.53,2023-01-07,12:28:00,Ewallet,68.12,3.41,6.80
+233-34-0817,C,Glasgow,Electronic accessories,98.84,1,4.94,103.78,2023-02-15,11:21:00,Cash,98.84,4.94,8.40
+233-67-5758,C,Glasgow,Health and beauty,40.35,1,2.02,42.37,2023-01-29,13:46:00,Ewallet,40.35,2.02,6.20
+234-03-4040,B,Bristol,Food and beverages,73.05,10,36.53,767.03,2023-03-03,12:25:00,Credit card,730.50,36.53,8.70
+234-36-2483,B,Bristol,Health and beauty,57.59,6,17.28,362.82,2023-02-15,13:51:00,Cash,345.54,17.28,5.10
+234-65-2137,C,Glasgow,Home and lifestyle,95.58,10,47.79,1003.59,2023-01-16,13:32:00,Cash,955.80,47.79,4.80
+235-06-8510,C,Glasgow,Home and lifestyle,85.72,3,12.86,270.02,2023-01-24,20:59:00,Ewallet,257.16,12.86,5.10
+235-46-8343,C,Glasgow,Food and beverages,27.66,10,13.83,290.43,2023-02-14,11:26:00,Credit card,276.60,13.83,8.90
+236-27-1144,C,Glasgow,Food and beverages,16.31,9,7.34,154.13,2023-03-26,10:31:00,Ewallet,146.79,7.34,8.40
+236-86-3015,C,Glasgow,Home and lifestyle,13.98,1,.70,14.68,2023-02-04,13:38:00,Ewallet,13.98,.70,9.80
+237-01-6122,C,Glasgow,Home and lifestyle,80.79,9,36.36,763.47,2023-02-01,20:31:00,Credit card,727.11,36.36,9.50
+237-44-6163,A,Plymouth,Electronic accessories,10.56,8,4.22,88.70,2023-01-24,17:43:00,Cash,84.48,4.22,7.60
+238-45-6950,B,Bristol,Food and beverages,53.72,1,2.69,56.41,2023-03-01,20:03:00,Ewallet,53.72,2.69,6.40
+238-49-0436,A,Plymouth,Health and beauty,32.46,8,12.98,272.66,2023-03-27,13:48:00,Credit card,259.68,12.98,4.90
+239-10-7476,A,Plymouth,Home and lifestyle,77.95,6,23.39,491.08,2023-01-21,16:37:00,Ewallet,467.70,23.39,8.00
+239-36-3640,B,Bristol,Electronic accessories,45.35,6,13.60,285.70,2023-01-31,13:44:00,Ewallet,272.10,13.60,6.10
+239-48-4278,A,Plymouth,Food and beverages,10.13,7,3.55,74.46,2023-03-10,19:35:00,Ewallet,70.91,3.55,8.30
+241-11-2261,B,Bristol,Fashion accessories,79.86,7,27.95,586.97,2023-01-10,10:33:00,Credit card,559.02,27.95,5.50
+241-72-9525,B,Bristol,Sports and travel,51.91,10,25.95,545.05,2023-02-16,12:21:00,Cash,519.10,25.95,8.20
+241-96-5076,B,Bristol,Home and lifestyle,49.10,2,4.91,103.11,2023-01-08,12:58:00,Credit card,98.20,4.91,6.40
+242-11-3142,B,Bristol,Fashion accessories,83.77,2,8.38,175.92,2023-02-24,19:57:00,Cash,167.54,8.38,4.60
+242-55-6721,B,Bristol,Home and lifestyle,16.16,2,1.62,33.94,2023-03-07,11:49:00,Ewallet,32.32,1.62,6.50
+243-47-2663,C,Glasgow,Electronic accessories,18.77,6,5.63,118.25,2023-01-28,16:43:00,Credit card,112.62,5.63,5.50
+243-55-8457,A,Plymouth,Food and beverages,74.44,10,37.22,781.62,2023-02-27,11:40:00,Ewallet,744.40,37.22,5.10
+244-08-0162,B,Bristol,Health and beauty,34.21,10,17.10,359.20,2023-01-02,13:00:00,Cash,342.10,17.10,5.10
+246-11-3901,C,Glasgow,Electronic accessories,32.80,10,16.40,344.40,2023-02-15,12:12:00,Cash,328.00,16.40,6.20
+246-55-6923,C,Glasgow,Home and lifestyle,35.79,9,16.11,338.22,2023-03-10,15:06:00,Credit card,322.11,16.11,5.10
+247-11-2470,A,Plymouth,Fashion accessories,22.32,4,4.46,93.74,2023-03-01,16:23:00,Credit card,89.28,4.46,4.40
+249-42-3782,A,Plymouth,Health and beauty,70.01,5,17.50,367.55,2023-01-03,11:36:00,Ewallet,350.05,17.50,5.50
+250-17-5703,A,Plymouth,Food and beverages,18.85,10,9.43,197.93,2023-02-27,18:24:00,Ewallet,188.50,9.43,5.60
+250-81-7186,C,Glasgow,Electronic accessories,99.69,1,4.98,104.67,2023-02-27,10:23:00,Credit card,99.69,4.98,8.00
+252-56-2699,A,Plymouth,Food and beverages,43.19,10,21.59,453.49,2023-02-07,16:48:00,Ewallet,431.90,21.59,8.20
+253-12-6086,A,Plymouth,Sports and travel,98.40,7,34.44,723.24,2023-03-12,12:43:00,Credit card,688.80,34.44,8.70
+254-31-0042,A,Plymouth,Electronic accessories,21.50,9,9.68,203.18,2023-03-06,12:46:00,Credit card,193.50,9.68,7.80
+256-08-8343,A,Plymouth,Home and lifestyle,56.53,4,11.31,237.43,2023-03-04,19:48:00,Ewallet,226.12,11.31,5.50
+256-58-3609,C,Glasgow,Fashion accessories,91.98,1,4.60,96.58,2023-03-18,15:29:00,Cash,91.98,4.60,9.80
+257-60-7754,A,Plymouth,Electronic accessories,50.23,4,10.05,210.97,2023-01-08,17:12:00,Cash,200.92,10.05,9.00
+257-73-1380,C,Glasgow,Sports and travel,82.93,4,16.59,348.31,2023-01-20,16:51:00,Ewallet,331.72,16.59,9.60
+258-69-7810,C,Glasgow,Fashion accessories,36.85,5,9.21,193.46,2023-01-26,18:53:00,Cash,184.25,9.21,9.20
+258-92-7466,A,Plymouth,Health and beauty,35.68,5,8.92,187.32,2023-02-06,18:33:00,Credit card,178.40,8.92,6.60
+261-12-8671,B,Bristol,Fashion accessories,60.96,2,6.10,128.02,2023-01-25,19:39:00,Credit card,121.92,6.10,4.90
+262-47-2794,B,Bristol,Home and lifestyle,71.86,8,28.74,603.62,2023-03-06,15:07:00,Credit card,574.88,28.74,6.20
+263-10-3913,C,Glasgow,Fashion accessories,49.04,9,22.07,463.43,2023-01-09,14:20:00,Credit card,441.36,22.07,8.60
+263-12-5321,A,Plymouth,Electronic accessories,92.60,7,32.41,680.61,2023-02-27,12:52:00,Credit card,648.20,32.41,9.30
+263-87-5680,C,Glasgow,Home and lifestyle,28.53,10,14.27,299.57,2023-03-18,17:38:00,Ewallet,285.30,14.27,7.80
+266-20-6657,C,Glasgow,Food and beverages,55.04,7,19.26,404.54,2023-03-12,19:39:00,Ewallet,385.28,19.26,5.20
+266-76-6436,C,Glasgow,Food and beverages,38.60,3,5.79,121.59,2023-03-28,13:57:00,Ewallet,115.80,5.79,7.50
+267-62-7380,C,Glasgow,Electronic accessories,82.34,10,41.17,864.57,2023-03-29,19:12:00,Ewallet,823.40,41.17,4.30
+268-03-6164,B,Bristol,Health and beauty,96.11,1,4.81,100.92,2023-01-25,16:28:00,Ewallet,96.11,4.81,7.80
+268-20-3585,C,Glasgow,Health and beauty,13.85,9,6.23,130.88,2023-02-04,12:50:00,Ewallet,124.65,6.23,6.00
+268-27-6179,B,Bristol,Fashion accessories,56.47,8,22.59,474.35,2023-03-09,14:57:00,Ewallet,451.76,22.59,7.30
+269-04-5750,B,Bristol,Fashion accessories,73.82,4,14.76,310.04,2023-02-21,18:31:00,Cash,295.28,14.76,6.70
+269-10-8440,A,Plymouth,Health and beauty,53.17,7,18.61,390.80,2023-01-21,18:01:00,Cash,372.19,18.61,8.90
+271-77-8740,C,Glasgow,Sports and travel,29.22,6,8.77,184.09,2023-01-01,11:40:00,Ewallet,175.32,8.77,5.00
+271-88-8734,C,Glasgow,Fashion accessories,97.21,10,48.60,1020.71,2023-02-08,13:00:00,Credit card,972.10,48.60,8.70
+272-27-9238,C,Glasgow,Food and beverages,41.24,4,8.25,173.21,2023-02-19,16:23:00,Cash,164.96,8.25,7.10
+272-65-1806,A,Plymouth,Electronic accessories,60.88,9,27.40,575.32,2023-01-15,17:17:00,Ewallet,547.92,27.40,4.70
+273-16-6619,B,Bristol,Home and lifestyle,33.20,2,3.32,69.72,2023-03-15,12:20:00,Credit card,66.40,3.32,4.40
+273-84-2164,C,Glasgow,Electronic accessories,12.05,5,3.01,63.26,2023-02-16,15:53:00,Ewallet,60.25,3.01,5.50
+274-05-5470,A,Plymouth,Food and beverages,73.47,4,14.69,308.57,2023-02-23,18:30:00,Cash,293.88,14.69,6.00
+275-28-0149,A,Plymouth,Sports and travel,63.69,1,3.18,66.87,2023-02-25,16:21:00,Cash,63.69,3.18,6.00
+276-54-0879,B,Bristol,Sports and travel,97.74,4,19.55,410.51,2023-03-12,19:53:00,Ewallet,390.96,19.55,6.40
+276-75-6884,A,Plymouth,Health and beauty,68.71,3,10.31,216.44,2023-03-04,10:05:00,Cash,206.13,10.31,8.70
+277-35-5865,C,Glasgow,Food and beverages,98.97,9,44.54,935.27,2023-03-09,11:23:00,Cash,890.73,44.54,6.70
+277-63-2961,B,Bristol,Sports and travel,73.97,1,3.70,77.67,2023-02-03,15:53:00,Credit card,73.97,3.70,5.40
+278-86-2735,A,Plymouth,Food and beverages,52.34,3,7.85,164.87,2023-03-27,14:03:00,Cash,157.02,7.85,9.20
+278-97-7759,A,Plymouth,Electronic accessories,62.48,1,3.12,65.60,2023-02-18,20:29:00,Cash,62.48,3.12,4.70
+279-62-1445,C,Glasgow,Fashion accessories,12.54,1,.63,13.17,2023-02-21,12:38:00,Cash,12.54,.63,8.20
+279-74-2924,B,Bristol,Electronic accessories,72.17,1,3.61,75.78,2023-01-04,19:40:00,Cash,72.17,3.61,6.10
+280-17-4359,C,Glasgow,Health and beauty,90.50,10,45.25,950.25,2023-01-25,13:48:00,Cash,905.00,45.25,8.10
+280-35-5823,B,Bristol,Home and lifestyle,86.72,1,4.34,91.06,2023-01-17,18:45:00,Ewallet,86.72,4.34,7.90
+282-35-2475,B,Bristol,Sports and travel,93.31,2,9.33,195.95,2023-03-25,17:53:00,Cash,186.62,9.33,6.30
+283-26-5248,C,Glasgow,Food and beverages,98.52,10,49.26,1034.46,2023-01-30,20:23:00,Ewallet,985.20,49.26,4.50
+283-79-9594,B,Bristol,Food and beverages,48.51,7,16.98,356.55,2023-01-25,13:30:00,Credit card,339.57,16.98,5.20
+284-34-9626,B,Bristol,Home and lifestyle,77.04,3,11.56,242.68,2023-02-11,10:39:00,Credit card,231.12,11.56,7.20
+284-54-4231,C,Glasgow,Sports and travel,80.93,1,4.05,84.98,2023-01-19,16:08:00,Credit card,80.93,4.05,9.00
+285-68-5083,C,Glasgow,Sports and travel,24.74,3,3.71,77.93,2023-02-15,17:47:00,Credit card,74.22,3.71,10.00
+286-01-5402,A,Plymouth,Sports and travel,40.23,7,14.08,295.69,2023-03-30,13:22:00,Cash,281.61,14.08,9.60
+286-43-6208,C,Glasgow,Food and beverages,87.80,9,39.51,829.71,2023-03-16,19:08:00,Cash,790.20,39.51,9.20
+286-62-6248,B,Bristol,Fashion accessories,39.21,4,7.84,164.68,2023-01-16,20:03:00,Credit card,156.84,7.84,9.00
+286-75-7818,B,Bristol,Fashion accessories,69.08,2,6.91,145.07,2023-01-31,19:48:00,Credit card,138.16,6.91,6.90
+287-21-9091,A,Plymouth,Home and lifestyle,74.67,9,33.60,705.63,2023-01-22,10:55:00,Ewallet,672.03,33.60,9.40
+287-83-1405,A,Plymouth,Health and beauty,25.43,6,7.63,160.21,2023-02-12,19:01:00,Ewallet,152.58,7.63,7.00
+288-38-3758,C,Glasgow,Fashion accessories,84.87,3,12.73,267.34,2023-01-25,18:30:00,Ewallet,254.61,12.73,7.40
+288-62-1085,A,Plymouth,Fashion accessories,38.54,5,9.64,202.34,2023-01-09,13:34:00,Ewallet,192.70,9.64,5.60
+289-15-7034,A,Plymouth,Sports and travel,82.33,4,16.47,345.79,2023-01-11,10:37:00,Credit card,329.32,16.47,7.50
+289-65-5721,B,Bristol,Fashion accessories,81.37,2,8.14,170.88,2023-01-26,19:28:00,Cash,162.74,8.14,6.50
+290-68-2984,A,Plymouth,Home and lifestyle,23.75,4,4.75,99.75,2023-03-16,11:22:00,Cash,95.00,4.75,5.20
+291-21-5991,B,Bristol,Health and beauty,61.29,5,15.32,321.77,2023-03-29,14:28:00,Cash,306.45,15.32,7.00
+291-32-1427,B,Bristol,Fashion accessories,21.94,5,5.49,115.18,2023-03-05,12:29:00,Ewallet,109.70,5.49,5.30
+291-55-6563,A,Plymouth,Home and lifestyle,34.42,6,10.33,216.85,2023-03-30,12:45:00,Ewallet,206.52,10.33,7.50
+291-59-1384,B,Bristol,Electronic accessories,60.30,1,3.02,63.31,2023-02-28,17:38:00,Cash,60.30,3.02,6.00
+296-11-7041,B,Bristol,Health and beauty,27.07,1,1.35,28.42,2023-01-12,20:07:00,Credit card,27.07,1.35,5.30
+299-29-0180,B,Bristol,Home and lifestyle,52.18,7,18.26,383.52,2023-03-09,10:54:00,Cash,365.26,18.26,9.30
+299-46-1805,B,Bristol,Sports and travel,93.72,6,28.12,590.44,2023-01-15,16:19:00,Cash,562.32,28.12,4.50
+300-71-4605,C,Glasgow,Electronic accessories,86.04,5,21.51,451.71,2023-02-25,11:24:00,Ewallet,430.20,21.51,4.80
+301-11-9629,A,Plymouth,Sports and travel,19.10,7,6.68,140.38,2023-01-15,10:43:00,Cash,133.70,6.68,9.70
+301-81-8610,B,Bristol,Fashion accessories,25.42,8,10.17,213.53,2023-03-19,19:42:00,Credit card,203.36,10.17,6.70
+302-15-2162,C,Glasgow,Health and beauty,46.53,6,13.96,293.14,2023-03-03,10:54:00,Credit card,279.18,13.96,4.30
+303-96-2227,B,Bristol,Home and lifestyle,97.38,10,48.69,1022.49,2023-03-02,17:16:00,Ewallet,973.80,48.69,4.40
+305-03-2383,A,Plymouth,Food and beverages,67.10,3,10.06,211.37,2023-02-15,10:36:00,Cash,201.30,10.06,7.50
+305-14-0245,B,Bristol,Home and lifestyle,94.49,8,37.80,793.72,2023-03-03,19:00:00,Ewallet,755.92,37.80,7.50
+305-18-3552,B,Bristol,Home and lifestyle,60.38,10,30.19,633.99,2023-02-12,16:19:00,Cash,603.80,30.19,6.00
+305-89-2768,B,Bristol,Home and lifestyle,21.90,3,3.29,68.99,2023-01-09,18:43:00,Ewallet,65.70,3.29,4.70
+307-04-2070,A,Plymouth,Fashion accessories,30.62,1,1.53,32.15,2023-02-05,14:14:00,Credit card,30.62,1.53,4.10
+307-83-9164,A,Plymouth,Home and lifestyle,60.01,4,12.00,252.04,2023-01-25,15:54:00,Cash,240.04,12.00,4.50
+307-85-2293,B,Bristol,Home and lifestyle,50.28,5,12.57,263.97,2023-03-07,13:58:00,Ewallet,251.40,12.57,9.70
+308-39-1707,A,Plymouth,Fashion accessories,12.09,1,.60,12.69,2023-01-26,18:19:00,Credit card,12.09,.60,8.20
+308-47-4913,A,Plymouth,Sports and travel,52.26,10,26.13,548.73,2023-03-09,12:45:00,Credit card,522.60,26.13,6.20
+308-81-0538,A,Plymouth,Fashion accessories,73.05,4,14.61,306.81,2023-02-25,17:16:00,Credit card,292.20,14.61,4.90
+311-13-6971,B,Bristol,Sports and travel,31.99,10,15.99,335.89,2023-02-20,15:18:00,Credit card,319.90,15.99,9.90
+313-66-9943,B,Bristol,Food and beverages,29.15,3,4.37,91.82,2023-03-27,20:29:00,Credit card,87.45,4.37,7.30
+314-23-4520,C,Glasgow,Health and beauty,81.23,7,28.43,597.04,2023-01-15,20:44:00,Cash,568.61,28.43,9.00
+315-22-5665,C,Glasgow,Home and lifestyle,73.56,10,36.78,772.38,2023-02-24,11:38:00,Ewallet,735.60,36.78,8.00
+316-01-3952,A,Plymouth,Food and beverages,54.27,5,13.57,284.92,2023-03-13,14:16:00,Ewallet,271.35,13.57,4.60
+316-55-4634,B,Bristol,Food and beverages,80.05,5,20.01,420.26,2023-01-26,12:45:00,Credit card,400.25,20.01,9.40
+316-66-3011,A,Plymouth,Food and beverages,47.63,9,21.43,450.10,2023-01-23,12:35:00,Cash,428.67,21.43,5.00
+316-68-6352,A,Plymouth,Food and beverages,36.36,2,3.64,76.36,2023-01-21,10:00:00,Cash,72.72,3.64,7.10
+318-12-0304,A,Plymouth,Fashion accessories,30.61,1,1.53,32.14,2023-01-23,12:20:00,Ewallet,30.61,1.53,5.20
+318-68-5053,B,Bristol,Health and beauty,76.99,6,23.10,485.04,2023-02-27,17:55:00,Cash,461.94,23.10,6.10
+318-81-2368,C,Glasgow,Electronic accessories,46.20,1,2.31,48.51,2023-03-19,12:16:00,Cash,46.20,2.31,6.30
+319-50-3348,B,Bristol,Home and lifestyle,40.30,2,4.03,84.63,2023-03-11,15:30:00,Ewallet,80.60,4.03,4.40
+319-74-2561,A,Plymouth,Electronic accessories,94.64,3,14.20,298.12,2023-02-21,16:55:00,Cash,283.92,14.20,5.50
+320-32-8842,C,Glasgow,Food and beverages,22.62,1,1.13,23.75,2023-03-17,18:58:00,Cash,22.62,1.13,6.40
+320-49-6392,C,Glasgow,Electronic accessories,30.24,1,1.51,31.75,2023-03-04,15:44:00,Cash,30.24,1.51,8.40
+320-85-2052,B,Bristol,Sports and travel,34.81,1,1.74,36.55,2023-01-14,10:11:00,Credit card,34.81,1.74,7.00
+321-49-7382,B,Bristol,Sports and travel,88.31,1,4.42,92.73,2023-02-15,17:38:00,Credit card,88.31,4.42,5.20
+322-02-2271,B,Bristol,Sports and travel,42.97,3,6.45,135.36,2023-02-03,11:46:00,Cash,128.91,6.45,9.30
+324-41-6833,C,Glasgow,Electronic accessories,30.20,8,12.08,253.68,2023-03-03,19:30:00,Ewallet,241.60,12.08,5.10
+324-92-3863,A,Plymouth,Electronic accessories,20.89,2,2.09,43.87,2023-02-05,18:45:00,Cash,41.78,2.09,9.80
+325-77-6186,A,Plymouth,Home and lifestyle,90.65,10,45.33,951.83,2023-03-08,10:53:00,Ewallet,906.50,45.33,7.30
+325-89-4209,A,Plymouth,Food and beverages,87.90,1,4.39,92.29,2023-02-05,19:42:00,Ewallet,87.90,4.39,6.70
+325-90-8763,C,Glasgow,Electronic accessories,46.57,10,23.28,488.98,2023-01-27,13:58:00,Cash,465.70,23.28,7.60
+326-71-2155,C,Glasgow,Sports and travel,73.95,4,14.79,310.59,2023-02-03,10:02:00,Cash,295.80,14.79,6.10
+326-78-5178,C,Glasgow,Food and beverages,91.40,7,31.99,671.79,2023-02-03,10:19:00,Cash,639.80,31.99,9.50
+327-40-9673,B,Bristol,Sports and travel,72.60,6,21.78,457.38,2023-01-13,19:51:00,Cash,435.60,21.78,6.90
+329-62-1586,A,Plymouth,Food and beverages,54.67,3,8.20,172.21,2023-01-21,18:00:00,Credit card,164.01,8.20,8.60
+333-23-2632,A,Plymouth,Health and beauty,10.08,7,3.53,74.09,2023-03-28,20:14:00,Cash,70.56,3.53,4.20
+333-73-7901,C,Glasgow,Health and beauty,54.92,8,21.97,461.33,2023-03-23,13:24:00,Ewallet,439.36,21.97,7.60
+334-64-2006,A,Plymouth,Home and lifestyle,70.32,2,7.03,147.67,2023-03-24,14:22:00,Ewallet,140.64,7.03,9.60
+336-78-2147,C,Glasgow,Home and lifestyle,63.91,8,25.56,536.84,2023-03-13,19:52:00,Credit card,511.28,25.56,4.60
+338-65-2210,C,Glasgow,Health and beauty,68.60,10,34.30,720.30,2023-02-05,19:57:00,Cash,686.00,34.30,9.10
+339-12-4827,B,Bristol,Fashion accessories,73.96,1,3.70,77.66,2023-01-05,11:32:00,Credit card,73.96,3.70,5.00
+339-18-7061,C,Glasgow,Fashion accessories,92.98,2,9.30,195.26,2023-02-13,15:06:00,Credit card,185.96,9.30,8.00
+339-38-9982,B,Bristol,Fashion accessories,59.86,2,5.99,125.71,2023-01-13,14:55:00,Ewallet,119.72,5.99,6.70
+339-96-8318,B,Bristol,Fashion accessories,81.31,7,28.46,597.63,2023-03-01,19:49:00,Ewallet,569.17,28.46,6.30
+340-21-9136,A,Plymouth,Sports and travel,40.05,4,8.01,168.21,2023-01-25,11:40:00,Cash,160.20,8.01,9.70
+340-66-0321,A,Plymouth,Electronic accessories,36.36,4,7.27,152.71,2023-03-25,13:07:00,Cash,145.44,7.27,7.60
+342-65-4817,C,Glasgow,Health and beauty,86.80,3,13.02,273.42,2023-01-28,16:47:00,Ewallet,260.40,13.02,9.90
+343-61-3544,B,Bristol,Sports and travel,26.67,10,13.34,280.04,2023-01-29,11:48:00,Cash,266.70,13.34,8.60
+343-75-9322,B,Bristol,Sports and travel,11.85,8,4.74,99.54,2023-01-09,16:34:00,Cash,94.80,4.74,4.10
+343-87-0864,C,Glasgow,Health and beauty,75.88,1,3.79,79.67,2023-01-03,10:30:00,Credit card,75.88,3.79,7.10
+345-08-4992,A,Plymouth,Home and lifestyle,33.99,6,10.20,214.14,2023-03-08,15:37:00,Credit card,203.94,10.20,7.70
+345-68-9016,C,Glasgow,Sports and travel,31.67,8,12.67,266.03,2023-01-02,16:19:00,Credit card,253.36,12.67,5.60
+346-12-3257,B,Bristol,Electronic accessories,19.24,9,8.66,181.82,2023-03-04,16:28:00,Cash,173.16,8.66,8.00
+346-84-3103,B,Bristol,Electronic accessories,13.22,5,3.31,69.40,2023-03-02,19:26:00,Cash,66.10,3.31,4.30
+347-34-2234,B,Bristol,Sports and travel,55.07,9,24.78,520.41,2023-02-03,13:40:00,Ewallet,495.63,24.78,10.00
+347-56-2442,A,Plymouth,Home and lifestyle,65.82,1,3.29,69.11,2023-02-22,15:33:00,Cash,65.82,3.29,4.10
+347-72-6115,B,Bristol,Sports and travel,90.74,7,31.76,666.94,2023-01-16,18:03:00,Credit card,635.18,31.76,6.20
+349-97-8902,B,Bristol,Food and beverages,57.89,2,5.79,121.57,2023-01-17,10:37:00,Ewallet,115.78,5.79,8.90
+351-62-0822,B,Bristol,Fashion accessories,14.48,4,2.90,60.82,2023-02-06,18:07:00,Ewallet,57.92,2.90,4.50
+354-25-5821,B,Bristol,Sports and travel,69.12,6,20.74,435.46,2023-02-08,13:03:00,Cash,414.72,20.74,5.60
+354-39-5160,A,Plymouth,Home and lifestyle,34.42,6,10.33,216.85,2023-02-18,15:39:00,Cash,206.52,10.33,9.80
+355-34-6244,B,Bristol,Food and beverages,72.39,2,7.24,152.02,2023-01-13,19:55:00,Credit card,144.78,7.24,8.10
+355-53-5943,A,Plymouth,Electronic accessories,68.84,6,20.65,433.69,2023-02-25,14:36:00,Ewallet,413.04,20.65,5.80
+356-44-8813,B,Bristol,Home and lifestyle,37.48,3,5.62,118.06,2023-01-20,13:45:00,Credit card,112.44,5.62,7.70
+358-88-9262,C,Glasgow,Food and beverages,87.48,6,26.24,551.12,2023-02-01,18:43:00,Ewallet,524.88,26.24,5.10
+359-90-3665,B,Bristol,Fashion accessories,18.08,4,3.62,75.94,2023-01-14,18:03:00,Credit card,72.32,3.62,9.50
+359-94-5395,B,Bristol,Health and beauty,92.78,1,4.64,97.42,2023-03-15,10:50:00,Credit card,92.78,4.64,9.80
+360-39-5055,C,Glasgow,Sports and travel,48.91,5,12.23,256.78,2023-03-09,10:17:00,Cash,244.55,12.23,6.60
+361-59-0574,B,Bristol,Sports and travel,90.53,8,36.21,760.45,2023-03-15,14:48:00,Credit card,724.24,36.21,6.50
+361-85-2571,A,Plymouth,Sports and travel,89.48,5,22.37,469.77,2023-03-30,10:18:00,Cash,447.40,22.37,7.40
+362-58-8315,C,Glasgow,Fashion accessories,76.52,5,19.13,401.73,2023-03-25,10:23:00,Cash,382.60,19.13,9.90
+364-33-8584,B,Bristol,Food and beverages,17.63,5,4.41,92.56,2023-03-08,15:27:00,Cash,88.15,4.41,8.50
+364-34-2972,C,Glasgow,Electronic accessories,96.82,3,14.52,304.98,2023-03-30,20:37:00,Cash,290.46,14.52,6.70
+365-16-4334,B,Bristol,Food and beverages,26.43,8,10.57,222.01,2023-02-24,14:26:00,Ewallet,211.44,10.57,8.90
+365-64-0515,A,Plymouth,Electronic accessories,46.95,5,11.74,246.49,2023-02-12,10:25:00,Ewallet,234.75,11.74,7.10
+366-43-6862,B,Bristol,Electronic accessories,52.89,4,10.58,222.14,2023-03-25,16:32:00,Ewallet,211.56,10.58,6.70
+366-93-0948,A,Plymouth,Electronic accessories,66.35,1,3.32,69.67,2023-01-31,10:46:00,Credit card,66.35,3.32,9.70
+369-82-2676,B,Bristol,Electronic accessories,75.66,5,18.92,397.21,2023-01-15,18:22:00,Ewallet,378.30,18.92,7.80
+370-41-7321,B,Bristol,Health and beauty,56.69,9,25.51,535.72,2023-02-27,17:24:00,Credit card,510.21,25.51,8.40
+370-96-0655,C,Glasgow,Fashion accessories,49.32,6,14.80,310.72,2023-01-09,13:46:00,Ewallet,295.92,14.80,7.10
+371-85-5789,B,Bristol,Health and beauty,87.98,3,13.20,277.14,2023-03-05,10:40:00,Ewallet,263.94,13.20,5.10
+372-26-1506,C,Glasgow,Fashion accessories,23.82,5,5.95,125.06,2023-01-28,19:24:00,Ewallet,119.10,5.95,5.40
+372-62-5264,C,Glasgow,Food and beverages,52.60,9,23.67,497.07,2023-01-16,14:42:00,Cash,473.40,23.67,7.60
+372-94-8041,A,Plymouth,Health and beauty,15.26,6,4.58,96.14,2023-02-15,18:03:00,Ewallet,91.56,4.58,9.80
+373-09-4567,C,Glasgow,Food and beverages,77.56,10,38.78,814.38,2023-03-14,20:35:00,Ewallet,775.60,38.78,6.90
+373-14-0504,A,Plymouth,Sports and travel,71.63,2,7.16,150.42,2023-02-12,14:33:00,Ewallet,143.26,7.16,8.80
+373-73-7910,A,Plymouth,Sports and travel,86.31,7,30.21,634.38,2023-02-08,10:37:00,Ewallet,604.17,30.21,5.30
+373-88-1424,C,Glasgow,Home and lifestyle,35.81,5,8.95,188.00,2023-02-06,18:44:00,Ewallet,179.05,8.95,7.90
+374-17-3652,B,Bristol,Food and beverages,42.82,9,19.27,404.65,2023-02-05,15:26:00,Credit card,385.38,19.27,8.90
+374-38-5555,B,Bristol,Fashion accessories,63.71,5,15.93,334.48,2023-02-07,19:30:00,Ewallet,318.55,15.93,8.50
+375-72-3056,B,Bristol,Sports and travel,63.06,3,9.46,198.64,2023-01-19,15:58:00,Ewallet,189.18,9.46,7.00
+376-02-8238,B,Bristol,Home and lifestyle,93.87,8,37.55,788.51,2023-02-02,18:42:00,Credit card,750.96,37.55,8.30
+376-56-3573,C,Glasgow,Fashion accessories,95.42,4,19.08,400.76,2023-02-02,13:23:00,Ewallet,381.68,19.08,6.40
+377-79-7592,C,Glasgow,Electronic accessories,44.84,9,20.18,423.74,2023-01-14,14:00:00,Credit card,403.56,20.18,7.50
+378-07-7001,B,Bristol,Electronic accessories,48.09,3,7.21,151.48,2023-02-10,18:23:00,Credit card,144.27,7.21,7.80
+378-24-2715,B,Bristol,Home and lifestyle,53.44,2,5.34,112.22,2023-01-20,20:38:00,Ewallet,106.88,5.34,4.10
+379-17-6588,C,Glasgow,Fashion accessories,59.61,10,29.81,625.91,2023-03-14,11:07:00,Cash,596.10,29.81,5.30
+380-60-5336,A,Plymouth,Electronic accessories,40.26,10,20.13,422.73,2023-02-24,18:06:00,Credit card,402.60,20.13,5.00
+380-94-4661,C,Glasgow,Electronic accessories,65.94,4,13.19,276.95,2023-02-07,13:05:00,Credit card,263.76,13.19,6.90
+381-20-0914,A,Plymouth,Fashion accessories,20.01,9,9.00,189.09,2023-01-12,15:48:00,Credit card,180.09,9.00,5.70
+382-03-4532,A,Plymouth,Health and beauty,18.33,1,.92,19.25,2023-02-02,18:50:00,Cash,18.33,.92,4.30
+382-25-8917,C,Glasgow,Fashion accessories,42.08,6,12.62,265.10,2023-01-29,12:25:00,Cash,252.48,12.62,8.90
+384-59-6655,A,Plymouth,Food and beverages,98.66,9,44.40,932.34,2023-02-19,15:07:00,Cash,887.94,44.40,8.40
+386-27-7606,C,Glasgow,Home and lifestyle,81.20,7,28.42,596.82,2023-03-23,15:59:00,Credit card,568.40,28.42,8.10
+387-49-4215,B,Bristol,Sports and travel,48.50,3,7.28,152.77,2023-01-08,12:50:00,Cash,145.50,7.28,6.70
+388-76-2555,B,Bristol,Sports and travel,13.69,6,4.11,86.25,2023-02-13,13:59:00,Cash,82.14,4.11,6.30
+389-25-3394,C,Glasgow,Electronic accessories,11.81,5,2.95,62.00,2023-02-17,18:06:00,Cash,59.05,2.95,9.40
+389-70-2397,C,Glasgow,Health and beauty,83.66,5,20.92,439.21,2023-02-21,10:26:00,Cash,418.30,20.92,7.20
+390-17-5806,C,Glasgow,Food and beverages,38.42,1,1.92,40.34,2023-02-02,16:33:00,Cash,38.42,1.92,8.60
+390-31-6381,C,Glasgow,Food and beverages,27.22,3,4.08,85.74,2023-01-07,12:37:00,Cash,81.66,4.08,7.30
+390-80-5128,B,Bristol,Health and beauty,19.15,1,.96,20.11,2023-01-28,17:58:00,Credit card,19.15,.96,9.50
+393-65-2792,C,Glasgow,Food and beverages,89.48,10,44.74,939.54,2023-01-06,12:46:00,Credit card,894.80,44.74,9.60
+394-30-3170,B,Bristol,Sports and travel,88.43,8,35.37,742.81,2023-03-22,19:35:00,Credit card,707.44,35.37,4.30
+394-41-0748,C,Glasgow,Fashion accessories,54.07,9,24.33,510.96,2023-01-27,14:55:00,Ewallet,486.63,24.33,9.50
+394-43-4238,B,Bristol,Home and lifestyle,17.77,5,4.44,93.29,2023-02-15,12:42:00,Credit card,88.85,4.44,5.40
+394-55-6384,C,Glasgow,Sports and travel,70.19,9,31.59,663.30,2023-01-25,13:38:00,Cash,631.71,31.59,6.70
+396-90-2219,B,Bristol,Electronic accessories,14.96,8,5.98,125.66,2023-02-23,12:29:00,Cash,119.68,5.98,8.60
+397-25-8725,A,Plymouth,Health and beauty,39.62,9,17.83,374.41,2023-01-13,17:54:00,Credit card,356.58,17.83,6.80
+399-46-5918,C,Glasgow,Electronic accessories,85.98,8,34.39,722.23,2023-02-28,19:01:00,Cash,687.84,34.39,8.20
+399-69-4630,C,Glasgow,Electronic accessories,22.21,6,6.66,139.92,2023-03-07,10:23:00,Credit card,133.26,6.66,8.60
+400-45-1220,B,Bristol,Health and beauty,13.50,10,6.75,141.75,2023-02-27,11:06:00,Credit card,135.00,6.75,4.80
+400-60-7251,A,Plymouth,Home and lifestyle,74.07,1,3.70,77.77,2023-02-10,12:50:00,Ewallet,74.07,3.70,9.90
+400-80-4065,C,Glasgow,Health and beauty,68.55,4,13.71,287.91,2023-02-15,20:21:00,Credit card,274.20,13.71,9.20
+400-89-4171,C,Glasgow,Sports and travel,80.97,8,32.39,680.15,2023-01-28,13:05:00,Cash,647.76,32.39,9.30
+401-09-4232,C,Glasgow,Home and lifestyle,86.69,5,21.67,455.12,2023-02-11,18:38:00,Ewallet,433.45,21.67,9.40
+401-18-8016,B,Bristol,Sports and travel,98.13,1,4.91,103.04,2023-01-21,17:36:00,Cash,98.13,4.91,8.90
+404-91-5964,A,Plymouth,Electronic accessories,74.58,7,26.10,548.16,2023-02-04,16:09:00,Credit card,522.06,26.10,9.00
+405-31-3305,A,Plymouth,Fashion accessories,43.13,10,21.57,452.86,2023-02-02,18:31:00,Credit card,431.30,21.57,5.50
+406-46-7107,A,Plymouth,Home and lifestyle,96.52,6,28.96,608.08,2023-01-11,11:52:00,Cash,579.12,28.96,4.50
+407-63-8975,A,Plymouth,Food and beverages,73.88,6,22.16,465.44,2023-03-23,19:16:00,Ewallet,443.28,22.16,4.40
+408-26-9866,C,Glasgow,Sports and travel,73.98,7,25.89,543.75,2023-03-02,16:42:00,Ewallet,517.86,25.89,4.10
+408-66-6712,C,Glasgow,Health and beauty,47.71,6,14.31,300.57,2023-02-16,14:19:00,Ewallet,286.26,14.31,4.40
+409-33-9708,A,Plymouth,Fashion accessories,98.48,2,9.85,206.81,2023-02-19,10:12:00,Ewallet,196.96,9.85,9.20
+409-49-6995,C,Glasgow,Food and beverages,47.27,6,14.18,297.80,2023-02-05,10:17:00,Cash,283.62,14.18,8.80
+410-67-1709,A,Plymouth,Fashion accessories,63.88,8,25.55,536.59,2023-01-20,17:48:00,Ewallet,511.04,25.55,9.90
+411-77-0180,A,Plymouth,Electronic accessories,72.20,7,25.27,530.67,2023-03-26,20:14:00,Ewallet,505.40,25.27,4.30
+413-20-6708,C,Glasgow,Fashion accessories,51.47,1,2.57,54.04,2023-03-18,15:52:00,Ewallet,51.47,2.57,8.50
+414-12-7047,B,Bristol,Food and beverages,19.79,8,7.92,166.24,2023-01-18,12:04:00,Ewallet,158.32,7.92,8.70
+416-13-5917,C,Glasgow,Food and beverages,97.03,5,24.26,509.41,2023-01-30,16:24:00,Ewallet,485.15,24.26,9.30
+416-17-9926,A,Plymouth,Electronic accessories,74.22,10,37.11,779.31,2023-01-01,14:42:00,Credit card,742.20,37.11,4.30
+418-02-5978,B,Bristol,Health and beauty,84.09,9,37.84,794.65,2023-02-11,10:54:00,Cash,756.81,37.84,8.00
+418-05-0656,B,Bristol,Fashion accessories,25.56,7,8.95,187.87,2023-02-02,20:42:00,Cash,178.92,8.95,7.10
+420-04-7590,B,Bristol,Home and lifestyle,99.70,3,14.95,314.05,2023-03-18,11:29:00,Ewallet,299.10,14.95,4.70
+420-11-4919,C,Glasgow,Food and beverages,71.39,5,17.85,374.80,2023-02-17,19:57:00,Credit card,356.95,17.85,5.50
+420-18-8989,A,Plymouth,Sports and travel,51.52,8,20.61,432.77,2023-02-02,15:47:00,Cash,412.16,20.61,9.60
+420-97-3340,A,Plymouth,Food and beverages,71.68,3,10.75,225.79,2023-03-28,15:30:00,Credit card,215.04,10.75,9.20
+421-95-9805,A,Plymouth,Electronic accessories,28.96,1,1.45,30.41,2023-02-07,10:18:00,Credit card,28.96,1.45,6.20
+422-29-8786,A,Plymouth,Home and lifestyle,67.09,5,16.77,352.22,2023-01-03,16:47:00,Credit card,335.45,16.77,9.10
+423-57-2993,B,Bristol,Sports and travel,93.39,6,28.02,588.36,2023-03-27,19:18:00,Ewallet,560.34,28.02,10.00
+423-64-4619,A,Plymouth,Health and beauty,15.55,9,7.00,146.95,2023-03-07,13:12:00,Cash,139.95,7.00,5.00
+423-80-0988,C,Glasgow,Sports and travel,76.40,2,7.64,160.44,2023-01-30,19:42:00,Ewallet,152.80,7.64,6.50
+425-85-2085,B,Bristol,Health and beauty,54.86,5,13.72,288.02,2023-03-29,16:48:00,Ewallet,274.30,13.72,9.80
+426-39-2418,C,Glasgow,Electronic accessories,61.41,7,21.49,451.36,2023-01-14,10:02:00,Cash,429.87,21.49,9.80
+427-45-9297,B,Bristol,Home and lifestyle,40.73,7,14.26,299.37,2023-03-12,11:01:00,Ewallet,285.11,14.26,5.40
+428-83-5800,C,Glasgow,Food and beverages,21.08,3,3.16,66.40,2023-02-09,10:25:00,Cash,63.24,3.16,7.30
+430-02-3888,B,Bristol,Electronic accessories,46.02,6,13.81,289.93,2023-02-07,15:55:00,Cash,276.12,13.81,7.10
+430-53-4718,B,Bristol,Health and beauty,75.37,8,30.15,633.11,2023-01-28,15:46:00,Credit card,602.96,30.15,8.40
+430-60-3493,A,Plymouth,Home and lifestyle,94.88,7,33.21,697.37,2023-02-03,14:38:00,Cash,664.16,33.21,4.20
+431-66-2305,B,Bristol,Electronic accessories,88.25,9,39.71,833.96,2023-02-15,20:51:00,Credit card,794.25,39.71,7.60
+433-08-7822,C,Glasgow,Health and beauty,78.89,7,27.61,579.84,2023-01-05,19:48:00,Ewallet,552.23,27.61,7.50
+433-75-6987,B,Bristol,Health and beauty,55.97,7,19.59,411.38,2023-03-05,19:06:00,Ewallet,391.79,19.59,8.90
+434-35-9162,B,Bristol,Food and beverages,23.34,4,4.67,98.03,2023-02-04,18:53:00,Ewallet,93.36,4.67,7.40
+434-83-9547,C,Glasgow,Food and beverages,38.47,8,15.39,323.15,2023-01-23,11:51:00,Cash,307.76,15.39,7.70
+435-13-4908,A,Plymouth,Fashion accessories,86.68,8,34.67,728.11,2023-01-24,18:04:00,Credit card,693.44,34.67,7.20
+436-54-4512,A,Plymouth,Food and beverages,91.61,1,4.58,96.19,2023-03-20,19:44:00,Cash,91.61,4.58,9.80
+437-53-3084,B,Bristol,Fashion accessories,99.89,2,9.99,209.77,2023-02-26,11:48:00,Ewallet,199.78,9.99,7.10
+437-58-8131,B,Bristol,Fashion accessories,73.52,2,7.35,154.39,2023-01-15,13:41:00,Ewallet,147.04,7.35,4.60
+438-01-4015,B,Bristol,Sports and travel,49.49,4,9.90,207.86,2023-03-21,15:25:00,Ewallet,197.96,9.90,6.60
+438-23-1242,B,Bristol,Electronic accessories,75.88,7,26.56,557.72,2023-01-24,10:38:00,Ewallet,531.16,26.56,8.90
+439-54-7422,A,Plymouth,Electronic accessories,51.19,4,10.24,215.00,2023-03-18,17:15:00,Credit card,204.76,10.24,4.70
+440-59-5691,C,Glasgow,Health and beauty,37.15,7,13.00,273.05,2023-02-08,13:12:00,Credit card,260.05,13.00,7.70
+441-94-7118,A,Plymouth,Electronic accessories,71.95,1,3.60,75.55,2023-02-04,12:14:00,Cash,71.95,3.60,7.30
+442-44-6497,C,Glasgow,Home and lifestyle,55.57,3,8.34,175.05,2023-01-08,11:42:00,Credit card,166.71,8.34,5.90
+442-48-3607,A,Plymouth,Food and beverages,23.48,2,2.35,49.31,2023-03-14,11:21:00,Credit card,46.96,2.35,7.90
+443-59-0061,A,Plymouth,Food and beverages,67.45,10,33.72,708.22,2023-02-03,11:25:00,Ewallet,674.50,33.72,4.20
+443-60-9639,C,Glasgow,Home and lifestyle,60.87,1,3.04,63.91,2023-01-24,13:24:00,Cash,60.87,3.04,5.50
+443-82-0585,A,Plymouth,Health and beauty,77.68,4,15.54,326.26,2023-02-01,19:54:00,Cash,310.72,15.54,8.40
+445-30-9252,A,Plymouth,Sports and travel,25.70,3,3.86,80.96,2023-01-17,17:59:00,Ewallet,77.10,3.86,6.10
+446-47-6729,C,Glasgow,Fashion accessories,99.82,2,9.98,209.62,2023-01-02,18:09:00,Credit card,199.64,9.98,6.70
+447-15-7839,A,Plymouth,Sports and travel,22.24,10,11.12,233.52,2023-02-09,11:00:00,Cash,222.40,11.12,4.20
+448-34-8700,B,Bristol,Home and lifestyle,36.91,7,12.92,271.29,2023-02-10,13:51:00,Ewallet,258.37,12.92,6.70
+448-61-3783,A,Plymouth,Electronic accessories,90.02,8,36.01,756.17,2023-03-21,16:08:00,Credit card,720.16,36.01,4.50
+448-81-5016,A,Plymouth,Health and beauty,59.77,2,5.98,125.52,2023-03-11,12:01:00,Credit card,119.54,5.98,5.80
+449-16-6770,A,Plymouth,Health and beauty,50.79,5,12.70,266.65,2023-02-19,14:53:00,Credit card,253.95,12.70,5.30
+449-27-2918,B,Bristol,Sports and travel,39.12,1,1.96,41.08,2023-03-26,11:02:00,Credit card,39.12,1.96,9.60
+450-28-2866,C,Glasgow,Food and beverages,17.44,5,4.36,91.56,2023-01-15,19:25:00,Cash,87.20,4.36,8.10
+450-42-3339,C,Glasgow,Health and beauty,84.61,10,42.31,888.41,2023-02-09,18:58:00,Credit card,846.10,42.31,8.80
+451-28-5717,C,Glasgow,Home and lifestyle,83.17,6,24.95,523.97,2023-03-20,11:23:00,Cash,499.02,24.95,7.30
+451-73-2711,C,Glasgow,Food and beverages,84.83,1,4.24,89.07,2023-01-14,15:20:00,Ewallet,84.83,4.24,8.80
+452-04-8808,B,Bristol,Electronic accessories,87.08,7,30.48,640.04,2023-01-26,15:17:00,Cash,609.56,30.48,5.50
+453-12-7053,C,Glasgow,Fashion accessories,45.74,3,6.86,144.08,2023-03-10,17:38:00,Credit card,137.22,6.86,6.50
+453-33-6436,A,Plymouth,Home and lifestyle,93.12,8,37.25,782.21,2023-02-07,10:09:00,Cash,744.96,37.25,6.80
+453-63-6187,B,Bristol,Electronic accessories,27.50,3,4.13,86.63,2023-03-01,15:40:00,Ewallet,82.50,4.13,6.50
+457-12-0244,C,Glasgow,Sports and travel,35.22,6,10.57,221.89,2023-03-14,13:49:00,Ewallet,211.32,10.57,6.50
+457-13-1708,B,Bristol,Fashion accessories,65.23,10,32.62,684.91,2023-01-08,19:07:00,Credit card,652.30,32.62,5.20
+457-94-0464,B,Bristol,Electronic accessories,87.87,9,39.54,830.37,2023-01-31,20:32:00,Ewallet,790.83,39.54,5.60
+458-10-8612,C,Glasgow,Health and beauty,64.08,7,22.43,470.99,2023-01-20,12:27:00,Ewallet,448.56,22.43,7.60
+458-41-1477,C,Glasgow,Health and beauty,46.26,6,13.88,291.44,2023-03-08,17:11:00,Credit card,277.56,13.88,9.50
+458-61-0011,B,Bristol,Food and beverages,60.30,4,12.06,253.26,2023-02-20,18:43:00,Cash,241.20,12.06,5.80
+459-45-2396,A,Plymouth,Food and beverages,99.60,3,14.94,313.74,2023-02-25,18:45:00,Cash,298.80,14.94,5.80
+459-50-7686,A,Plymouth,Electronic accessories,23.46,6,7.04,147.80,2023-01-13,19:14:00,Ewallet,140.76,7.04,6.40
+460-35-4390,A,Plymouth,Home and lifestyle,30.68,3,4.60,96.64,2023-01-22,11:00:00,Ewallet,92.04,4.60,9.10
+460-93-5834,A,Plymouth,Sports and travel,45.58,7,15.95,335.01,2023-01-13,10:03:00,Cash,319.06,15.95,5.00
+462-67-9126,A,Plymouth,Home and lifestyle,73.22,6,21.97,461.29,2023-01-21,17:44:00,Cash,439.32,21.97,7.20
+462-78-5240,C,Glasgow,Electronic accessories,26.61,2,2.66,55.88,2023-03-19,14:35:00,Cash,53.22,2.66,4.20
+466-61-5506,B,Bristol,Electronic accessories,90.70,6,27.21,571.41,2023-02-26,10:52:00,Cash,544.20,27.21,5.30
+468-01-2051,B,Bristol,Food and beverages,62.08,7,21.73,456.29,2023-03-06,13:46:00,Ewallet,434.56,21.73,5.40
+468-88-0009,A,Plymouth,Home and lifestyle,65.94,4,13.19,276.95,2023-03-24,10:29:00,Cash,263.76,13.19,6.00
+468-99-7231,C,Glasgow,Home and lifestyle,44.01,8,17.60,369.68,2023-03-03,17:36:00,Cash,352.08,17.60,8.80
+470-31-3286,B,Bristol,Health and beauty,14.82,3,2.22,46.68,2023-03-01,11:30:00,Credit card,44.46,2.22,8.70
+470-32-9057,A,Plymouth,Food and beverages,51.34,5,12.84,269.54,2023-03-28,15:31:00,Credit card,256.70,12.84,9.10
+471-06-8611,C,Glasgow,Food and beverages,52.42,1,2.62,55.04,2023-02-06,10:22:00,Credit card,52.42,2.62,6.30
+471-41-2823,C,Glasgow,Food and beverages,99.79,2,9.98,209.56,2023-03-07,20:37:00,Ewallet,199.58,9.98,8.00
+472-15-9636,A,Plymouth,Home and lifestyle,50.93,8,20.37,427.81,2023-03-22,19:36:00,Ewallet,407.44,20.37,9.20
+474-33-8305,C,Glasgow,Fashion accessories,67.39,7,23.59,495.32,2023-03-23,13:23:00,Ewallet,471.73,23.59,6.90
+477-24-6490,B,Bristol,Health and beauty,99.71,6,29.91,628.17,2023-02-26,16:52:00,Ewallet,598.26,29.91,7.90
+477-59-2456,C,Glasgow,Fashion accessories,45.44,7,15.90,333.98,2023-01-23,11:15:00,Cash,318.08,15.90,9.20
+478-06-7835,A,Plymouth,Fashion accessories,89.69,1,4.48,94.17,2023-01-11,11:20:00,Ewallet,89.69,4.48,4.90
+479-26-8945,B,Bristol,Sports and travel,16.49,2,1.65,34.63,2023-02-05,11:32:00,Ewallet,32.98,1.65,4.60
+480-63-2856,C,Glasgow,Food and beverages,19.25,8,7.70,161.70,2023-01-23,18:37:00,Ewallet,154.00,7.70,6.60
+482-17-1179,A,Plymouth,Electronic accessories,11.94,3,1.79,37.61,2023-01-19,12:47:00,Credit card,35.82,1.79,8.10
+483-71-1164,C,Glasgow,Health and beauty,81.30,6,24.39,512.19,2023-03-08,16:43:00,Ewallet,487.80,24.39,5.30
+484-22-8230,C,Glasgow,Fashion accessories,51.89,7,18.16,381.39,2023-01-08,20:08:00,Cash,363.23,18.16,4.50
+485-30-8700,A,Plymouth,Sports and travel,33.26,5,8.31,174.62,2023-03-18,16:10:00,Credit card,166.30,8.31,4.20
+487-79-6868,B,Bristol,Home and lifestyle,12.29,9,5.53,116.14,2023-03-26,19:28:00,Credit card,110.61,5.53,8.00
+488-25-4221,C,Glasgow,Food and beverages,30.41,1,1.52,31.93,2023-02-22,10:36:00,Credit card,30.41,1.52,8.40
+489-64-4354,C,Glasgow,Fashion accessories,16.28,1,.81,17.09,2023-03-09,15:36:00,Cash,16.28,.81,5.00
+489-82-1237,A,Plymouth,Electronic accessories,93.88,7,32.86,690.02,2023-01-05,11:51:00,Credit card,657.16,32.86,7.30
+490-29-1201,A,Plymouth,Sports and travel,15.34,1,.77,16.11,2023-01-06,11:09:00,Cash,15.34,.77,6.50
+490-95-0021,B,Bristol,Food and beverages,33.21,10,16.60,348.70,2023-01-08,14:25:00,Ewallet,332.10,16.60,6.00
+491-38-3499,A,Plymouth,Fashion accessories,55.45,1,2.77,58.22,2023-02-26,17:46:00,Credit card,55.45,2.77,4.90
+493-65-6248,C,Glasgow,Sports and travel,36.98,10,18.49,388.29,2023-01-01,19:48:00,Credit card,369.80,18.49,7.00
+497-36-0989,A,Plymouth,Fashion accessories,51.94,3,7.79,163.61,2023-02-15,15:21:00,Cash,155.82,7.79,7.90
+497-37-6538,A,Plymouth,Sports and travel,58.91,7,20.62,432.99,2023-01-17,15:15:00,Ewallet,412.37,20.62,9.70
+498-41-1961,B,Bristol,Health and beauty,66.68,5,16.67,350.07,2023-02-20,18:01:00,Cash,333.40,16.67,7.60
+499-27-7781,B,Bristol,Food and beverages,53.21,8,21.28,446.96,2023-03-14,16:45:00,Ewallet,425.68,21.28,5.00
+500-02-2261,C,Glasgow,Food and beverages,57.29,6,17.19,360.93,2023-03-21,17:04:00,Ewallet,343.74,17.19,5.90
+501-61-1753,B,Bristol,Home and lifestyle,63.15,6,18.94,397.85,2023-01-03,20:24:00,Ewallet,378.90,18.94,9.80
+502-05-1910,A,Plymouth,Health and beauty,65.18,3,9.78,205.32,2023-02-25,20:35:00,Credit card,195.54,9.78,6.30
+503-07-0930,C,Glasgow,Sports and travel,58.39,7,20.44,429.17,2023-02-23,19:49:00,Credit card,408.73,20.44,8.20
+503-21-4385,B,Bristol,Health and beauty,39.91,3,5.99,125.72,2023-02-21,12:40:00,Ewallet,119.73,5.99,9.30
+504-35-8843,A,Plymouth,Sports and travel,42.47,1,2.12,44.59,2023-01-02,16:57:00,Cash,42.47,2.12,5.70
+505-02-0892,B,Bristol,Health and beauty,42.57,8,17.03,357.59,2023-02-25,14:12:00,Ewallet,340.56,17.03,5.60
+509-10-0516,B,Bristol,Home and lifestyle,45.97,4,9.19,193.07,2023-02-09,12:02:00,Ewallet,183.88,9.19,5.10
+509-29-3912,A,Plymouth,Sports and travel,38.72,9,17.42,365.90,2023-03-20,12:24:00,Ewallet,348.48,17.42,4.20
+510-09-5628,A,Plymouth,Fashion accessories,19.66,10,9.83,206.43,2023-03-15,18:20:00,Credit card,196.60,9.83,7.20
+510-79-0415,B,Bristol,Sports and travel,23.08,6,6.92,145.40,2023-01-24,19:20:00,Ewallet,138.48,6.92,4.90
+510-95-6347,B,Bristol,Food and beverages,48.52,3,7.28,152.84,2023-03-05,18:17:00,Ewallet,145.56,7.28,4.00
+511-54-3087,B,Bristol,Sports and travel,88.45,1,4.42,92.87,2023-02-25,16:36:00,Credit card,88.45,4.42,9.50
+512-91-0811,C,Glasgow,Health and beauty,89.75,1,4.49,94.24,2023-02-06,20:05:00,Credit card,89.75,4.49,6.60
+512-98-1403,A,Plymouth,Electronic accessories,26.48,3,3.97,83.41,2023-03-21,10:40:00,Ewallet,79.44,3.97,4.70
+514-37-2845,B,Bristol,Fashion accessories,99.25,2,9.93,208.43,2023-03-20,13:02:00,Cash,198.50,9.93,9.00
+516-77-6464,C,Glasgow,Health and beauty,10.16,5,2.54,53.34,2023-02-24,13:08:00,Ewallet,50.80,2.54,4.10
+518-17-2983,A,Plymouth,Fashion accessories,48.63,4,9.73,204.25,2023-02-04,15:44:00,Ewallet,194.52,9.73,7.60
+518-71-6847,B,Bristol,Food and beverages,26.60,6,7.98,167.58,2023-02-26,15:10:00,Ewallet,159.60,7.98,4.90
+521-18-7827,C,Glasgow,Home and lifestyle,39.39,5,9.85,206.80,2023-01-22,20:46:00,Credit card,196.95,9.85,8.70
+522-57-8364,A,Plymouth,Fashion accessories,51.34,8,20.54,431.26,2023-01-31,10:00:00,Ewallet,410.72,20.54,7.60
+523-38-0215,C,Glasgow,Home and lifestyle,37.00,1,1.85,38.85,2023-03-06,13:29:00,Credit card,37.00,1.85,7.90
+525-09-8450,B,Bristol,Electronic accessories,72.13,10,36.06,757.36,2023-01-31,15:12:00,Credit card,721.30,36.06,4.20
+525-88-7307,B,Bristol,Sports and travel,75.82,1,3.79,79.61,2023-01-31,13:19:00,Cash,75.82,3.79,5.80
+526-86-8552,C,Glasgow,Home and lifestyle,21.82,10,10.91,229.11,2023-01-07,17:36:00,Cash,218.20,10.91,7.10
+527-09-6272,A,Plymouth,Electronic accessories,28.45,5,7.11,149.36,2023-03-21,10:17:00,Credit card,142.25,7.11,9.10
+528-14-9470,A,Plymouth,Health and beauty,91.30,1,4.57,95.86,2023-02-14,14:42:00,Ewallet,91.30,4.57,9.20
+528-87-5606,B,Bristol,Electronic accessories,39.48,1,1.97,41.45,2023-02-12,19:43:00,Cash,39.48,1.97,6.50
+529-56-3974,B,Bristol,Electronic accessories,25.51,4,5.10,107.14,2023-03-09,17:03:00,Cash,102.04,5.10,6.80
+530-90-9855,A,Plymouth,Home and lifestyle,47.59,8,19.04,399.76,2023-01-01,14:47:00,Cash,380.72,19.04,5.70
+531-56-4728,A,Plymouth,Home and lifestyle,80.08,3,12.01,252.25,2023-02-11,15:29:00,Cash,240.24,12.01,5.40
+531-80-1784,A,Plymouth,Electronic accessories,26.02,7,9.11,191.25,2023-03-28,17:38:00,Cash,182.14,9.11,5.10
+532-59-7201,B,Bristol,Sports and travel,79.93,6,23.98,503.56,2023-01-31,14:04:00,Cash,479.58,23.98,5.50
+533-33-5337,B,Bristol,Electronic accessories,79.39,10,39.69,833.59,2023-02-07,20:24:00,Cash,793.90,39.69,6.20
+533-66-5566,B,Bristol,Home and lifestyle,51.07,7,17.87,375.36,2023-01-12,11:42:00,Cash,357.49,17.87,7.00
+534-01-4457,A,Plymouth,Food and beverages,81.71,6,24.51,514.77,2023-01-27,14:36:00,Credit card,490.26,24.51,8.00
+534-53-3526,A,Plymouth,Sports and travel,94.76,4,18.95,397.99,2023-02-11,16:06:00,Ewallet,379.04,18.95,7.80
+537-72-0426,C,Glasgow,Fashion accessories,70.99,10,35.49,745.40,2023-03-20,16:28:00,Cash,709.90,35.49,5.70
+538-22-0304,C,Glasgow,Electronic accessories,64.95,10,32.47,681.97,2023-03-24,18:27:00,Cash,649.50,32.47,5.20
+539-21-7227,B,Bristol,Sports and travel,51.54,5,12.89,270.58,2023-01-26,17:45:00,Cash,257.70,12.89,4.20
+540-11-4336,A,Plymouth,Food and beverages,24.94,9,11.22,235.68,2023-01-11,16:49:00,Credit card,224.46,11.22,5.60
+541-08-3113,C,Glasgow,Food and beverages,65.97,8,26.39,554.15,2023-02-02,20:29:00,Cash,527.76,26.39,8.40
+541-48-8554,A,Plymouth,Sports and travel,60.95,9,27.43,575.98,2023-01-07,12:08:00,Credit card,548.55,27.43,6.00
+541-89-9860,C,Glasgow,Fashion accessories,80.48,3,12.07,253.51,2023-02-15,12:31:00,Cash,241.44,12.07,8.10
+542-41-0513,B,Bristol,Electronic accessories,57.49,4,11.50,241.46,2023-03-15,11:57:00,Cash,229.96,11.50,6.60
+544-32-5024,C,Glasgow,Food and beverages,49.79,4,9.96,209.12,2023-03-28,19:16:00,Credit card,199.16,9.96,6.40
+544-55-9589,B,Bristol,Electronic accessories,21.43,10,10.72,225.01,2023-01-28,11:51:00,Cash,214.30,10.72,6.20
+545-07-8534,C,Glasgow,Health and beauty,58.32,2,5.83,122.47,2023-02-14,12:42:00,Ewallet,116.64,5.83,6.00
+545-46-3100,B,Bristol,Electronic accessories,10.59,3,1.59,33.36,2023-03-12,13:52:00,Credit card,31.77,1.59,8.70
+546-80-2899,A,Plymouth,Home and lifestyle,37.69,2,3.77,79.15,2023-02-20,15:29:00,Ewallet,75.38,3.77,9.50
+548-46-9322,B,Bristol,Food and beverages,39.90,10,19.95,418.95,2023-02-20,15:24:00,Credit card,399.00,19.95,5.90
+548-48-3156,A,Plymouth,Food and beverages,83.34,2,8.33,175.01,2023-03-19,13:37:00,Cash,166.68,8.33,7.60
+549-03-9315,B,Bristol,Fashion accessories,94.87,8,37.95,796.91,2023-02-12,12:58:00,Ewallet,758.96,37.95,8.70
+549-23-9016,C,Glasgow,Food and beverages,14.87,2,1.49,31.23,2023-02-13,18:15:00,Credit card,29.74,1.49,8.90
+549-59-1358,A,Plymouth,Sports and travel,88.63,3,13.29,279.18,2023-03-02,17:36:00,Ewallet,265.89,13.29,6.00
+549-84-7482,B,Bristol,Sports and travel,90.28,9,40.63,853.15,2023-02-08,11:15:00,Ewallet,812.52,40.63,7.20
+549-96-4200,C,Glasgow,Food and beverages,17.04,4,3.41,71.57,2023-03-08,20:15:00,Ewallet,68.16,3.41,7.00
+550-84-8664,A,Plymouth,Sports and travel,85.91,5,21.48,451.03,2023-03-22,14:33:00,Credit card,429.55,21.48,8.60
+551-21-3069,C,Glasgow,Electronic accessories,23.07,9,10.38,218.01,2023-02-01,11:27:00,Cash,207.63,10.38,4.90
+552-44-5977,B,Bristol,Health and beauty,62.00,8,24.80,520.80,2023-01-03,19:08:00,Credit card,496.00,24.80,6.20
+554-42-2417,C,Glasgow,Sports and travel,95.44,10,47.72,1002.12,2023-01-09,13:45:00,Cash,954.40,47.72,5.20
+554-53-3790,B,Bristol,Sports and travel,37.02,6,11.11,233.23,2023-03-22,18:33:00,Cash,222.12,11.11,4.50
+554-53-8700,C,Glasgow,Home and lifestyle,56.11,2,5.61,117.83,2023-02-02,10:11:00,Cash,112.22,5.61,6.30
+556-41-6224,C,Glasgow,Health and beauty,33.64,8,13.46,282.58,2023-02-15,17:10:00,Credit card,269.12,13.46,9.30
+556-72-8512,C,Glasgow,Home and lifestyle,22.96,1,1.15,24.11,2023-01-30,20:47:00,Cash,22.96,1.15,4.30
+556-86-3144,C,Glasgow,Fashion accessories,74.29,1,3.71,78.00,2023-01-13,19:30:00,Cash,74.29,3.71,5.00
+556-97-7101,C,Glasgow,Electronic accessories,63.22,2,6.32,132.76,2023-01-01,15:51:00,Cash,126.44,6.32,8.50
+558-60-5016,A,Plymouth,Home and lifestyle,33.30,9,14.98,314.68,2023-03-04,15:27:00,Ewallet,299.70,14.98,7.20
+558-80-4082,C,Glasgow,Electronic accessories,27.85,7,9.75,204.70,2023-03-14,17:20:00,Ewallet,194.95,9.75,6.00
+559-61-5987,B,Bristol,Health and beauty,17.75,1,.89,18.64,2023-01-14,10:38:00,Cash,17.75,.89,8.60
+559-98-9873,A,Plymouth,Fashion accessories,53.65,7,18.78,394.33,2023-02-10,12:56:00,Ewallet,375.55,18.78,5.20
+560-30-5617,B,Bristol,Sports and travel,24.77,5,6.19,130.04,2023-03-24,18:27:00,Cash,123.85,6.19,8.50
+560-49-6611,A,Plymouth,Sports and travel,45.58,1,2.28,47.86,2023-02-07,14:13:00,Cash,45.58,2.28,9.80
+562-12-5430,A,Plymouth,Fashion accessories,88.15,3,13.22,277.67,2023-01-18,10:11:00,Ewallet,264.45,13.22,7.90
+563-36-9814,A,Plymouth,Electronic accessories,76.82,1,3.84,80.66,2023-02-13,18:27:00,Ewallet,76.82,3.84,7.20
+563-47-4072,B,Bristol,Health and beauty,55.81,6,16.74,351.60,2023-01-22,11:52:00,Cash,334.86,16.74,9.90
+563-91-7120,A,Plymouth,Fashion accessories,61.77,5,15.44,324.29,2023-03-08,13:21:00,Cash,308.85,15.44,6.70
+565-17-3836,A,Plymouth,Health and beauty,47.67,4,9.53,200.21,2023-03-12,14:21:00,Cash,190.68,9.53,9.10
+565-67-6697,B,Bristol,Home and lifestyle,27.00,9,12.15,255.15,2023-03-02,14:16:00,Cash,243.00,12.15,4.80
+565-80-5980,C,Glasgow,Home and lifestyle,47.38,4,9.48,199.00,2023-01-23,10:25:00,Cash,189.52,9.48,7.10
+565-91-4567,B,Bristol,Health and beauty,10.75,8,4.30,90.30,2023-03-15,14:38:00,Ewallet,86.00,4.30,6.20
+566-19-5475,B,Bristol,Fashion accessories,47.97,7,16.79,352.58,2023-01-07,20:52:00,Cash,335.79,16.79,6.20
+566-71-1091,A,Plymouth,Fashion accessories,77.02,5,19.25,404.36,2023-02-03,15:59:00,Cash,385.10,19.25,5.50
+568-88-3448,A,Plymouth,Health and beauty,25.00,1,1.25,26.25,2023-03-03,15:09:00,Ewallet,25.00,1.25,5.50
+568-90-5112,C,Glasgow,Health and beauty,66.14,4,13.23,277.79,2023-03-19,12:46:00,Credit card,264.56,13.23,5.60
+569-71-4390,B,Bristol,Sports and travel,21.87,2,2.19,45.93,2023-01-25,14:29:00,Ewallet,43.74,2.19,6.90
+569-76-2760,A,Plymouth,Sports and travel,22.01,4,4.40,92.44,2023-01-29,18:15:00,Credit card,88.04,4.40,6.60
+571-94-0759,B,Bristol,Food and beverages,74.60,10,37.30,783.30,2023-01-08,20:55:00,Cash,746.00,37.30,9.50
+573-10-3877,B,Bristol,Health and beauty,39.01,1,1.95,40.96,2023-03-12,16:46:00,Credit card,39.01,1.95,4.70
+573-58-9734,B,Bristol,Fashion accessories,30.37,3,4.56,95.67,2023-03-28,13:41:00,Ewallet,91.11,4.56,5.10
+573-98-8548,C,Glasgow,Fashion accessories,31.90,1,1.60,33.49,2023-01-05,12:40:00,Ewallet,31.90,1.60,9.10
+574-22-5561,C,Glasgow,Fashion accessories,82.63,10,41.31,867.61,2023-03-19,17:08:00,Ewallet,826.30,41.31,7.90
+574-31-8277,B,Bristol,Fashion accessories,33.63,1,1.68,35.31,2023-03-20,19:55:00,Cash,33.63,1.68,5.60
+574-57-9721,C,Glasgow,Food and beverages,43.27,2,4.33,90.87,2023-03-08,16:53:00,Ewallet,86.54,4.33,5.70
+574-80-1489,B,Bristol,Food and beverages,62.85,4,12.57,263.97,2023-02-25,13:22:00,Ewallet,251.40,12.57,8.70
+575-30-8091,A,Plymouth,Sports and travel,72.50,8,29.00,609.00,2023-03-16,19:25:00,Ewallet,580.00,29.00,9.20
+575-67-1508,A,Plymouth,Electronic accessories,38.60,1,1.93,40.53,2023-01-29,11:26:00,Ewallet,38.60,1.93,6.70
+576-31-4774,B,Bristol,Health and beauty,73.41,3,11.01,231.24,2023-03-02,13:10:00,Ewallet,220.23,11.01,4.00
+577-34-7579,C,Glasgow,Food and beverages,50.49,9,22.72,477.13,2023-01-10,17:16:00,Cash,454.41,22.72,5.40
+578-80-7669,B,Bristol,Sports and travel,74.97,1,3.75,78.72,2023-03-16,16:58:00,Cash,74.97,3.75,5.60
+582-52-8065,B,Bristol,Fashion accessories,54.31,9,24.44,513.23,2023-02-22,10:49:00,Cash,488.79,24.44,8.90
+583-41-4548,C,Glasgow,Home and lifestyle,16.67,7,5.83,122.52,2023-02-07,11:36:00,Ewallet,116.69,5.83,7.40
+583-72-1480,C,Glasgow,Electronic accessories,37.06,4,7.41,155.65,2023-01-31,16:24:00,Ewallet,148.24,7.41,9.70
+584-66-4073,C,Glasgow,Fashion accessories,56.50,1,2.83,59.33,2023-03-13,15:45:00,Ewallet,56.50,2.83,9.60
+584-86-7256,C,Glasgow,Sports and travel,34.56,7,12.10,254.02,2023-03-11,16:07:00,Credit card,241.92,12.10,7.30
+585-03-5943,B,Bristol,Health and beauty,18.11,10,9.06,190.15,2023-03-13,11:46:00,Ewallet,181.10,9.06,5.90
+585-11-6748,B,Bristol,Sports and travel,96.80,3,14.52,304.92,2023-03-15,13:05:00,Cash,290.40,14.52,5.30
+585-86-8361,A,Plymouth,Food and beverages,27.28,5,6.82,143.22,2023-02-03,10:31:00,Credit card,136.40,6.82,8.60
+585-90-0249,A,Plymouth,Electronic accessories,73.26,1,3.66,76.92,2023-01-27,18:08:00,Ewallet,73.26,3.66,9.70
+586-25-0848,A,Plymouth,Sports and travel,12.34,7,4.32,90.70,2023-03-04,11:19:00,Credit card,86.38,4.32,6.70
+587-03-7455,C,Glasgow,Fashion accessories,97.79,7,34.23,718.76,2023-02-16,17:30:00,Ewallet,684.53,34.23,4.90
+587-73-4862,A,Plymouth,Health and beauty,10.69,5,2.67,56.12,2023-03-26,11:07:00,Ewallet,53.45,2.67,7.60
+588-01-7461,C,Glasgow,Food and beverages,33.98,9,15.29,321.11,2023-03-24,10:43:00,Cash,305.82,15.29,4.20
+588-47-8641,A,Plymouth,Fashion accessories,56.04,10,28.02,588.42,2023-01-14,19:30:00,Ewallet,560.40,28.02,4.40
+589-02-8023,A,Plymouth,Food and beverages,83.77,2,8.38,175.92,2023-01-15,10:54:00,Credit card,167.54,8.38,7.00
+590-83-4591,B,Bristol,Electronic accessories,87.45,6,26.24,550.93,2023-02-17,14:40:00,Credit card,524.70,26.24,8.80
+592-34-6155,C,Glasgow,Food and beverages,31.77,4,6.35,133.43,2023-01-14,14:43:00,Ewallet,127.08,6.35,6.20
+592-46-1692,C,Glasgow,Food and beverages,36.77,7,12.87,270.26,2023-01-11,20:10:00,Cash,257.39,12.87,7.40
+593-08-5916,A,Plymouth,Fashion accessories,15.50,1,.77,16.27,2023-03-19,15:23:00,Credit card,15.50,.77,7.40
+593-14-4239,B,Bristol,Home and lifestyle,95.46,8,38.18,801.86,2023-03-05,19:40:00,Ewallet,763.68,38.18,4.70
+593-65-1552,C,Glasgow,Home and lifestyle,69.81,4,13.96,293.20,2023-01-28,20:50:00,Credit card,279.24,13.96,5.90
+593-95-4461,C,Glasgow,Home and lifestyle,74.86,1,3.74,78.60,2023-03-24,14:49:00,Cash,74.86,3.74,6.90
+594-34-4444,A,Plymouth,Electronic accessories,97.16,1,4.86,102.02,2023-03-08,20:38:00,Ewallet,97.16,4.86,7.20
+595-11-5460,A,Plymouth,Health and beauty,96.58,2,9.66,202.82,2023-03-15,10:12:00,Credit card,193.16,9.66,5.10
+595-27-4851,A,Plymouth,Fashion accessories,54.28,7,19.00,398.96,2023-01-27,18:05:00,Ewallet,379.96,19.00,9.30
+595-86-2894,C,Glasgow,Fashion accessories,96.98,4,19.40,407.32,2023-02-06,17:20:00,Ewallet,387.92,19.40,9.40
+595-94-9924,A,Plymouth,Health and beauty,27.73,5,6.93,145.58,2023-03-26,20:21:00,Credit card,138.65,6.93,4.20
+596-42-3999,B,Bristol,Food and beverages,18.22,7,6.38,133.92,2023-03-10,14:04:00,Credit card,127.54,6.38,6.60
+597-78-7908,C,Glasgow,Fashion accessories,90.22,3,13.53,284.19,2023-02-18,19:39:00,Cash,270.66,13.53,6.20
+598-06-7312,B,Bristol,Fashion accessories,91.35,1,4.57,95.92,2023-02-16,15:42:00,Cash,91.35,4.57,6.80
+598-47-9715,C,Glasgow,Electronic accessories,84.07,4,16.81,353.09,2023-03-07,16:54:00,Ewallet,336.28,16.81,4.40
+600-38-9738,C,Glasgow,Sports and travel,71.92,5,17.98,377.58,2023-01-17,15:05:00,Credit card,359.60,17.98,4.30
+602-16-6955,B,Bristol,Sports and travel,76.60,10,38.30,804.30,2023-01-24,18:10:00,Ewallet,766.00,38.30,6.00
+602-80-9671,C,Glasgow,Home and lifestyle,15.95,6,4.78,100.49,2023-02-09,17:15:00,Credit card,95.70,4.78,5.10
+603-07-0961,C,Glasgow,Electronic accessories,74.79,5,18.70,392.65,2023-01-10,11:34:00,Cash,373.95,18.70,4.90
+604-70-6476,A,Plymouth,Fashion accessories,17.94,5,4.49,94.18,2023-01-23,14:04:00,Ewallet,89.70,4.49,6.80
+605-03-2706,A,Plymouth,Health and beauty,15.80,3,2.37,49.77,2023-03-25,18:02:00,Cash,47.40,2.37,9.50
+605-72-4132,C,Glasgow,Food and beverages,94.47,8,37.79,793.55,2023-02-27,15:12:00,Cash,755.76,37.79,9.10
+605-83-1050,B,Bristol,Fashion accessories,27.18,2,2.72,57.08,2023-03-15,16:26:00,Ewallet,54.36,2.72,4.30
+606-80-4905,C,Glasgow,Sports and travel,19.15,6,5.74,120.64,2023-01-29,10:01:00,Credit card,114.90,5.74,6.80
+607-65-2441,C,Glasgow,Health and beauty,81.95,10,40.97,860.47,2023-03-10,12:39:00,Credit card,819.50,40.97,6.00
+607-76-6216,C,Glasgow,Fashion accessories,92.49,5,23.12,485.57,2023-03-02,16:35:00,Credit card,462.45,23.12,8.60
+608-04-3797,B,Bristol,Health and beauty,25.32,8,10.13,212.69,2023-03-05,20:24:00,Ewallet,202.56,10.13,8.70
+608-05-3804,B,Bristol,Electronic accessories,39.75,1,1.99,41.74,2023-02-25,20:19:00,Cash,39.75,1.99,6.10
+608-27-6295,B,Bristol,Electronic accessories,52.89,6,15.87,333.21,2023-01-19,17:34:00,Credit card,317.34,15.87,9.80
+608-96-3517,B,Bristol,Fashion accessories,91.54,4,18.31,384.47,2023-03-23,19:20:00,Credit card,366.16,18.31,4.80
+609-81-8548,A,Plymouth,Home and lifestyle,37.44,6,11.23,235.87,2023-02-06,13:55:00,Credit card,224.64,11.23,5.90
+610-46-4100,A,Plymouth,Health and beauty,28.95,7,10.13,212.78,2023-03-03,20:31:00,Credit card,202.65,10.13,6.00
+612-36-5536,A,Plymouth,Food and beverages,80.96,8,32.38,680.06,2023-02-17,11:12:00,Credit card,647.68,32.38,7.40
+613-59-9758,C,Glasgow,Sports and travel,14.36,10,7.18,150.78,2023-01-27,14:28:00,Cash,143.60,7.18,5.40
+616-24-2851,B,Bristol,Fashion accessories,17.87,4,3.57,75.05,2023-03-22,14:42:00,Ewallet,71.48,3.57,6.50
+616-87-0016,B,Bristol,Fashion accessories,95.54,7,33.44,702.22,2023-03-09,14:36:00,Credit card,668.78,33.44,9.60
+617-15-4209,C,Glasgow,Health and beauty,15.37,2,1.54,32.28,2023-03-16,19:47:00,Cash,30.74,1.54,7.20
+618-34-8551,A,Plymouth,Sports and travel,93.18,2,9.32,195.68,2023-01-16,18:41:00,Credit card,186.36,9.32,8.50
+620-02-2046,C,Glasgow,Home and lifestyle,69.40,2,6.94,145.74,2023-01-27,19:48:00,Ewallet,138.80,6.94,9.00
+622-20-1945,C,Glasgow,Health and beauty,39.42,1,1.97,41.39,2023-01-18,15:08:00,Cash,39.42,1.97,8.40
+624-01-8356,B,Bristol,Home and lifestyle,49.01,10,24.50,514.60,2023-01-27,10:44:00,Credit card,490.10,24.50,4.20
+626-43-7888,C,Glasgow,Fashion accessories,60.41,8,24.16,507.44,2023-02-07,12:23:00,Ewallet,483.28,24.16,9.60
+627-95-3243,B,Bristol,Home and lifestyle,77.68,9,34.96,734.08,2023-02-04,13:21:00,Ewallet,699.12,34.96,9.80
+628-34-3388,C,Glasgow,Fashion accessories,27.38,6,8.21,172.49,2023-01-05,20:54:00,Credit card,164.28,8.21,7.90
+628-90-8624,B,Bristol,Health and beauty,82.58,10,41.29,867.09,2023-03-14,14:41:00,Cash,825.80,41.29,5.00
+629-42-4133,C,Glasgow,Health and beauty,21.80,8,8.72,183.12,2023-02-19,19:24:00,Cash,174.40,8.72,8.30
+630-74-5166,A,Plymouth,Sports and travel,62.13,6,18.64,391.42,2023-03-22,20:19:00,Cash,372.78,18.64,7.40
+631-34-1880,C,Glasgow,Food and beverages,24.31,3,3.65,76.58,2023-01-08,19:09:00,Credit card,72.93,3.65,4.30
+631-41-3108,A,Plymouth,Home and lifestyle,46.33,7,16.22,340.53,2023-03-03,13:23:00,Credit card,324.31,16.22,7.40
+632-32-4574,B,Bristol,Sports and travel,75.92,8,30.37,637.73,2023-03-20,14:14:00,Cash,607.36,30.37,5.50
+632-90-0281,C,Glasgow,Fashion accessories,37.55,10,18.77,394.27,2023-03-08,20:01:00,Credit card,375.50,18.77,9.30
+633-09-3463,C,Glasgow,Electronic accessories,47.65,3,7.15,150.10,2023-03-28,12:58:00,Credit card,142.95,7.15,9.50
+633-44-8566,A,Plymouth,Food and beverages,49.38,7,17.28,362.94,2023-03-27,20:35:00,Credit card,345.66,17.28,7.30
+633-91-1052,A,Plymouth,Home and lifestyle,12.03,2,1.20,25.26,2023-01-27,15:51:00,Cash,24.06,1.20,5.10
+634-97-8956,A,Plymouth,Food and beverages,32.90,3,4.93,103.64,2023-02-17,17:27:00,Credit card,98.70,4.93,9.10
+635-28-5728,A,Plymouth,Health and beauty,56.00,3,8.40,176.40,2023-02-28,19:33:00,Ewallet,168.00,8.40,4.80
+635-40-6220,A,Plymouth,Health and beauty,89.60,8,35.84,752.64,2023-02-07,11:28:00,Ewallet,716.80,35.84,6.60
+636-17-0325,B,Bristol,Health and beauty,62.57,4,12.51,262.79,2023-02-25,18:37:00,Cash,250.28,12.51,9.50
+636-48-8204,A,Plymouth,Electronic accessories,34.56,5,8.64,181.44,2023-02-17,11:15:00,Ewallet,172.80,8.64,9.90
+636-98-3364,B,Bristol,Electronic accessories,26.26,3,3.94,82.72,2023-03-02,12:36:00,Ewallet,78.78,3.94,6.30
+638-60-7125,A,Plymouth,Electronic accessories,99.56,8,39.82,836.30,2023-02-14,17:03:00,Credit card,796.48,39.82,5.20
+639-76-1242,C,Glasgow,Food and beverages,40.52,5,10.13,212.73,2023-02-03,15:19:00,Cash,202.60,10.13,4.50
+640-48-5028,B,Bristol,Home and lifestyle,88.39,9,39.78,835.29,2023-03-02,12:40:00,Cash,795.51,39.78,6.30
+640-49-2076,B,Bristol,Sports and travel,83.78,8,33.51,703.75,2023-01-10,14:49:00,Cash,670.24,33.51,5.10
+641-43-2399,B,Bristol,Home and lifestyle,25.55,4,5.11,107.31,2023-01-26,20:23:00,Ewallet,102.20,5.11,5.70
+641-51-2661,C,Glasgow,Food and beverages,87.10,10,43.55,914.55,2023-02-12,14:45:00,Credit card,871.00,43.55,9.90
+641-62-7288,B,Bristol,Home and lifestyle,99.92,6,29.98,629.50,2023-03-24,13:33:00,Ewallet,599.52,29.98,7.10
+641-96-3695,C,Glasgow,Fashion accessories,43.46,6,13.04,273.80,2023-02-07,17:55:00,Ewallet,260.76,13.04,8.50
+642-30-6693,B,Bristol,Sports and travel,54.51,6,16.35,343.41,2023-03-17,13:54:00,Ewallet,327.06,16.35,7.80
+642-32-2990,A,Plymouth,Food and beverages,10.96,10,5.48,115.08,2023-02-02,20:48:00,Ewallet,109.60,5.48,6.00
+642-61-4706,B,Bristol,Food and beverages,93.40,2,9.34,196.14,2023-03-30,16:34:00,Cash,186.80,9.34,5.50
+643-38-7867,A,Plymouth,Home and lifestyle,97.94,1,4.90,102.84,2023-03-07,11:44:00,Ewallet,97.94,4.90,6.90
+645-44-1170,A,Plymouth,Home and lifestyle,58.07,9,26.13,548.76,2023-01-19,20:07:00,Ewallet,522.63,26.13,4.30
+645-78-8093,A,Plymouth,Sports and travel,93.14,2,9.31,195.59,2023-01-20,18:09:00,Ewallet,186.28,9.31,4.10
+647-50-1224,A,Plymouth,Fashion accessories,29.42,10,14.71,308.91,2023-01-12,16:23:00,Ewallet,294.20,14.71,8.90
+648-83-1321,A,Plymouth,Home and lifestyle,63.56,10,31.78,667.38,2023-01-16,17:59:00,Cash,635.60,31.78,4.30
+648-94-3045,C,Glasgow,Health and beauty,58.95,10,29.48,618.97,2023-02-07,14:27:00,Ewallet,589.50,29.48,8.10
+649-11-3678,C,Glasgow,Food and beverages,22.93,9,10.32,216.69,2023-02-26,20:26:00,Cash,206.37,10.32,5.50
+649-29-6775,B,Bristol,Fashion accessories,33.52,1,1.68,35.20,2023-02-08,15:31:00,Cash,33.52,1.68,6.70
+650-98-6268,B,Bristol,Food and beverages,20.87,3,3.13,65.74,2023-03-20,13:53:00,Credit card,62.61,3.13,8.00
+651-61-0874,C,Glasgow,Home and lifestyle,46.22,4,9.24,194.12,2023-03-12,20:04:00,Credit card,184.88,9.24,6.20
+651-88-7328,A,Plymouth,Fashion accessories,65.74,9,29.58,621.24,2023-01-01,13:55:00,Cash,591.66,29.58,7.70
+651-96-5970,A,Plymouth,Fashion accessories,46.41,1,2.32,48.73,2023-03-03,20:06:00,Credit card,46.41,2.32,4.00
+652-43-6591,A,Plymouth,Fashion accessories,97.29,8,38.92,817.24,2023-03-09,13:18:00,Credit card,778.32,38.92,6.20
+652-49-6720,C,Glasgow,Electronic accessories,60.95,1,3.05,64.00,2023-02-18,11:40:00,Ewallet,60.95,3.05,5.90
+655-07-2265,A,Plymouth,Electronic accessories,78.31,3,11.75,246.68,2023-03-05,16:38:00,Ewallet,234.93,11.75,5.40
+655-85-5130,B,Bristol,Fashion accessories,38.30,4,7.66,160.86,2023-03-13,19:22:00,Cash,153.20,7.66,5.70
+656-16-1063,B,Bristol,Sports and travel,46.42,3,6.96,146.22,2023-01-04,13:24:00,Credit card,139.26,6.96,4.40
+656-95-9349,A,Plymouth,Health and beauty,68.93,7,24.13,506.64,2023-03-11,11:03:00,Credit card,482.51,24.13,4.60
+658-66-3967,C,Glasgow,Health and beauty,53.19,7,18.62,390.95,2023-01-14,15:42:00,Ewallet,372.33,18.62,5.00
+659-36-1684,C,Glasgow,Sports and travel,57.12,7,19.99,419.83,2023-01-12,12:02:00,Credit card,399.84,19.99,6.50
+659-65-8956,B,Bristol,Fashion accessories,51.36,1,2.57,53.93,2023-01-16,15:26:00,Ewallet,51.36,2.57,5.20
+660-29-7083,C,Glasgow,Electronic accessories,55.87,10,27.93,586.64,2023-01-15,15:01:00,Cash,558.70,27.93,5.80
+662-47-5456,C,Glasgow,Fashion accessories,35.19,10,17.59,369.49,2023-03-17,19:06:00,Credit card,351.90,17.59,8.40
+662-72-2873,A,Plymouth,Food and beverages,40.94,5,10.23,214.93,2023-01-06,13:58:00,Ewallet,204.70,10.23,9.90
+663-86-9076,C,Glasgow,Food and beverages,68.54,8,27.42,575.74,2023-01-08,15:57:00,Ewallet,548.32,27.42,8.50
+664-14-2882,C,Glasgow,Home and lifestyle,10.53,5,2.63,55.28,2023-01-30,14:43:00,Credit card,52.65,2.63,5.80
+665-32-9167,A,Plymouth,Health and beauty,36.26,2,3.63,76.15,2023-01-10,17:15:00,Credit card,72.52,3.63,7.20
+665-63-9737,B,Bristol,Fashion accessories,52.42,3,7.86,165.12,2023-02-27,17:36:00,Ewallet,157.26,7.86,7.50
+667-23-5919,A,Plymouth,Fashion accessories,96.70,5,24.17,507.67,2023-01-14,12:52:00,Ewallet,483.50,24.17,7.00
+667-92-0055,A,Plymouth,Health and beauty,99.83,6,29.95,628.93,2023-03-04,15:02:00,Ewallet,598.98,29.95,8.50
+668-90-8900,A,Plymouth,Home and lifestyle,93.69,7,32.79,688.62,2023-03-10,18:44:00,Credit card,655.83,32.79,4.50
+669-54-1719,B,Bristol,Electronic accessories,18.93,6,5.68,119.26,2023-02-10,12:45:00,Credit card,113.58,5.68,8.10
+670-71-7306,B,Bristol,Sports and travel,44.63,6,13.39,281.17,2023-01-02,20:08:00,Credit card,267.78,13.39,5.10
+670-79-6321,B,Bristol,Home and lifestyle,94.59,7,33.11,695.24,2023-01-17,15:27:00,Credit card,662.13,33.11,4.90
+672-51-8681,C,Glasgow,Electronic accessories,66.65,9,29.99,629.84,2023-01-04,18:19:00,Credit card,599.85,29.99,9.70
+674-15-9296,A,Plymouth,Sports and travel,37.14,5,9.28,194.99,2023-01-08,13:05:00,Ewallet,185.70,9.28,5.00
+674-56-6360,A,Plymouth,Electronic accessories,95.15,1,4.76,99.91,2023-03-22,14:00:00,Cash,95.15,4.76,6.00
+676-10-2200,B,Bristol,Fashion accessories,53.78,1,2.69,56.47,2023-02-03,20:13:00,Ewallet,53.78,2.69,4.70
+676-39-6028,A,Plymouth,Electronic accessories,64.44,5,16.11,338.31,2023-03-30,17:04:00,Cash,322.20,16.11,6.60
+677-11-0152,C,Glasgow,Food and beverages,93.26,9,41.97,881.31,2023-01-16,18:08:00,Cash,839.34,41.97,8.80
+678-79-0726,C,Glasgow,Sports and travel,90.63,9,40.78,856.45,2023-01-18,15:28:00,Cash,815.67,40.78,5.10
+679-22-6530,B,Bristol,Sports and travel,40.62,2,4.06,85.30,2023-01-17,10:01:00,Credit card,81.24,4.06,4.10
+685-64-1609,A,Plymouth,Fashion accessories,30.14,10,15.07,316.47,2023-02-10,12:28:00,Ewallet,301.40,15.07,9.20
+686-41-0932,B,Bristol,Fashion accessories,34.70,2,3.47,72.87,2023-03-13,19:48:00,Ewallet,69.40,3.47,8.20
+687-15-1097,C,Glasgow,Health and beauty,21.12,2,2.11,44.35,2023-01-03,19:17:00,Cash,42.24,2.11,9.70
+687-47-8271,A,Plymouth,Fashion accessories,98.98,10,49.49,1039.29,2023-02-08,16:20:00,Credit card,989.80,49.49,8.70
+689-05-1884,A,Plymouth,Health and beauty,48.63,10,24.32,510.61,2023-03-04,12:44:00,Cash,486.30,24.32,8.80
+689-16-9784,C,Glasgow,Food and beverages,46.77,6,14.03,294.65,2023-03-11,13:37:00,Cash,280.62,14.03,6.00
+690-01-6631,B,Bristol,Fashion accessories,17.49,10,8.74,183.65,2023-02-22,18:35:00,Ewallet,174.90,8.74,6.60
+692-27-8933,B,Bristol,Sports and travel,57.95,6,17.39,365.08,2023-02-24,13:02:00,Cash,347.70,17.39,5.20
+692-92-5582,B,Bristol,Food and beverages,54.84,3,8.23,172.75,2023-02-20,13:27:00,Credit card,164.52,8.23,5.90
+695-09-5146,B,Bristol,Food and beverages,98.79,3,14.82,311.19,2023-02-23,20:00:00,Ewallet,296.37,14.82,6.40
+695-28-6250,A,Plymouth,Sports and travel,43.06,5,10.77,226.07,2023-02-04,16:38:00,Ewallet,215.30,10.77,7.70
+695-51-0018,B,Bristol,Sports and travel,34.84,4,6.97,146.33,2023-02-10,18:36:00,Cash,139.36,6.97,7.40
+696-90-2548,A,Plymouth,Sports and travel,25.84,3,3.88,81.40,2023-03-10,18:55:00,Ewallet,77.52,3.88,6.60
+698-98-5964,A,Plymouth,Food and beverages,81.21,10,40.60,852.71,2023-01-17,13:01:00,Credit card,812.10,40.60,6.30
+699-01-4164,C,Glasgow,Health and beauty,41.50,4,8.30,174.30,2023-03-12,19:58:00,Credit card,166.00,8.30,8.20
+699-14-3026,C,Glasgow,Electronic accessories,85.39,7,29.89,627.62,2023-03-25,18:30:00,Ewallet,597.73,29.89,4.10
+699-88-1972,B,Bristol,Health and beauty,99.16,8,39.66,832.94,2023-01-28,17:47:00,Credit card,793.28,39.66,4.20
+700-81-1757,A,Plymouth,Electronic accessories,26.31,5,6.58,138.13,2023-01-18,20:59:00,Credit card,131.55,6.58,8.80
+701-23-5550,B,Bristol,Home and lifestyle,38.81,4,7.76,163.00,2023-03-19,13:40:00,Ewallet,155.24,7.76,4.90
+701-69-8742,B,Bristol,Sports and travel,34.37,10,17.18,360.89,2023-03-16,10:11:00,Ewallet,343.70,17.18,6.70
+702-72-0487,A,Plymouth,Electronic accessories,46.61,2,4.66,97.88,2023-02-26,12:28:00,Credit card,93.22,4.66,6.60
+702-83-5291,C,Glasgow,Fashion accessories,99.82,9,44.92,943.30,2023-03-27,10:43:00,Cash,898.38,44.92,6.60
+704-10-4056,C,Glasgow,Health and beauty,60.47,3,9.07,190.48,2023-01-14,10:55:00,Credit card,181.41,9.07,5.60
+704-11-6354,A,Plymouth,Home and lifestyle,58.90,8,23.56,494.76,2023-01-06,11:23:00,Cash,471.20,23.56,8.90
+704-20-4138,C,Glasgow,Health and beauty,29.67,7,10.38,218.07,2023-03-11,18:58:00,Credit card,207.69,10.38,8.10
+704-48-3927,A,Plymouth,Electronic accessories,88.67,10,44.33,931.03,2023-01-12,14:50:00,Ewallet,886.70,44.33,7.30
+706-36-6154,A,Plymouth,Home and lifestyle,19.36,9,8.71,182.95,2023-01-18,18:43:00,Ewallet,174.24,8.71,8.70
+707-32-7409,B,Bristol,Sports and travel,95.54,4,19.11,401.27,2023-02-26,11:58:00,Ewallet,382.16,19.11,4.50
+709-58-4068,B,Bristol,Fashion accessories,41.09,10,20.55,431.45,2023-02-28,14:42:00,Cash,410.90,20.55,7.30
+710-46-4433,B,Bristol,Food and beverages,77.40,9,34.83,731.43,2023-02-15,14:15:00,Credit card,696.60,34.83,4.50
+711-31-1234,B,Bristol,Electronic accessories,95.64,4,19.13,401.69,2023-03-16,18:51:00,Cash,382.56,19.13,7.90
+712-39-0363,A,Plymouth,Food and beverages,41.66,6,12.50,262.46,2023-01-02,15:24:00,Ewallet,249.96,12.50,5.60
+714-02-3114,C,Glasgow,Sports and travel,98.80,2,9.88,207.48,2023-02-21,11:39:00,Cash,197.60,9.88,7.70
+715-20-1673,B,Bristol,Electronic accessories,28.38,5,7.09,148.99,2023-03-06,20:57:00,Cash,141.90,7.09,9.40
+716-39-1409,B,Bristol,Health and beauty,30.35,7,10.62,223.07,2023-03-19,18:19:00,Cash,212.45,10.62,8.00
+717-96-4189,C,Glasgow,Electronic accessories,35.49,6,10.65,223.59,2023-02-02,12:40:00,Cash,212.94,10.65,4.10
+718-57-9773,C,Glasgow,Sports and travel,49.33,10,24.67,517.97,2023-02-03,16:40:00,Credit card,493.30,24.67,9.40
+719-76-3868,C,Glasgow,Food and beverages,94.26,4,18.85,395.89,2023-03-12,16:30:00,Cash,377.04,18.85,8.60
+719-89-8991,A,Plymouth,Sports and travel,91.41,5,22.85,479.90,2023-02-25,16:03:00,Ewallet,457.05,22.85,7.10
+720-72-2436,A,Plymouth,Food and beverages,66.52,4,13.30,279.38,2023-03-02,18:14:00,Ewallet,266.08,13.30,6.90
+721-86-6247,A,Plymouth,Home and lifestyle,63.42,8,25.37,532.73,2023-03-11,12:55:00,Ewallet,507.36,25.37,7.40
+722-13-2115,C,Glasgow,Sports and travel,42.85,1,2.14,44.99,2023-03-14,15:36:00,Credit card,42.85,2.14,9.30
+725-32-9708,B,Bristol,Fashion accessories,68.71,4,13.74,288.58,2023-01-04,19:01:00,Cash,274.84,13.74,4.10
+725-54-0677,C,Glasgow,Health and beauty,85.60,7,29.96,629.16,2023-03-02,13:50:00,Cash,599.20,29.96,5.30
+725-56-0833,A,Plymouth,Health and beauty,32.32,10,16.16,339.36,2023-02-20,16:49:00,Credit card,323.20,16.16,10.00
+725-67-2480,B,Bristol,Fashion accessories,58.75,6,17.63,370.13,2023-03-24,18:14:00,Credit card,352.50,17.63,5.90
+725-96-3778,C,Glasgow,Home and lifestyle,89.25,8,35.70,749.70,2023-01-20,10:13:00,Cash,714.00,35.70,4.70
+726-27-2396,A,Plymouth,Health and beauty,77.50,5,19.38,406.88,2023-01-24,20:36:00,Ewallet,387.50,19.38,4.30
+726-29-6793,A,Plymouth,Electronic accessories,24.18,8,9.67,203.11,2023-01-28,20:54:00,Ewallet,193.44,9.67,9.80
+727-02-1313,A,Plymouth,Food and beverages,31.84,1,1.59,33.43,2023-02-09,13:22:00,Cash,31.84,1.59,7.70
+727-17-0390,A,Plymouth,Food and beverages,63.61,5,15.90,333.95,2023-03-16,12:43:00,Ewallet,318.05,15.90,4.80
+727-46-3608,B,Bristol,Food and beverages,20.01,9,9.00,189.09,2023-02-06,15:47:00,Ewallet,180.09,9.00,4.10
+727-75-6477,C,Glasgow,Electronic accessories,28.84,4,5.77,121.13,2023-03-29,14:44:00,Cash,115.36,5.77,6.40
+728-47-9078,C,Glasgow,Food and beverages,59.59,4,11.92,250.28,2023-01-19,12:46:00,Cash,238.36,11.92,9.80
+728-88-7867,C,Glasgow,Home and lifestyle,75.53,4,15.11,317.23,2023-03-19,15:52:00,Ewallet,302.12,15.11,8.30
+729-06-2010,B,Bristol,Health and beauty,80.47,9,36.21,760.44,2023-01-06,11:18:00,Cash,724.23,36.21,9.20
+729-09-9681,A,Plymouth,Home and lifestyle,25.91,6,7.77,163.23,2023-02-05,10:16:00,Ewallet,155.46,7.77,8.70
+729-46-7422,C,Glasgow,Food and beverages,35.89,1,1.79,37.68,2023-02-23,16:52:00,Credit card,35.89,1.79,7.90
+730-50-9884,C,Glasgow,Sports and travel,83.06,7,29.07,610.49,2023-03-05,14:31:00,Ewallet,581.42,29.07,4.00
+730-61-8757,B,Bristol,Health and beauty,51.13,4,10.23,214.75,2023-01-25,10:11:00,Credit card,204.52,10.23,4.00
+730-70-9830,C,Glasgow,Home and lifestyle,70.11,6,21.03,441.69,2023-03-14,17:54:00,Ewallet,420.66,21.03,5.20
+731-14-2199,A,Plymouth,Home and lifestyle,35.54,10,17.77,373.17,2023-01-04,13:34:00,Ewallet,355.40,17.77,7.00
+731-59-7531,B,Bristol,Health and beauty,72.57,8,29.03,609.59,2023-03-30,17:58:00,Cash,580.56,29.03,4.60
+731-81-9469,C,Glasgow,Sports and travel,89.80,10,44.90,942.90,2023-01-23,13:00:00,Credit card,898.00,44.90,5.40
+732-04-5373,B,Bristol,Home and lifestyle,46.47,4,9.29,195.17,2023-02-08,10:53:00,Cash,185.88,9.29,7.00
+732-67-5346,A,Plymouth,Food and beverages,13.79,5,3.45,72.40,2023-01-11,19:07:00,Credit card,68.95,3.45,7.80
+732-94-0499,C,Glasgow,Electronic accessories,41.65,10,20.83,437.33,2023-01-13,17:04:00,Credit card,416.50,20.83,5.40
+733-01-9107,B,Bristol,Home and lifestyle,82.70,6,24.81,521.01,2023-03-05,18:14:00,Cash,496.20,24.81,7.40
+733-29-1227,C,Glasgow,Home and lifestyle,55.61,7,19.46,408.73,2023-03-23,12:41:00,Cash,389.27,19.46,8.50
+733-33-4967,C,Glasgow,Electronic accessories,20.85,8,8.34,175.14,2023-03-03,19:17:00,Cash,166.80,8.34,6.30
+734-91-1155,B,Bristol,Electronic accessories,45.71,3,6.86,143.99,2023-03-26,10:34:00,Credit card,137.13,6.86,7.70
+735-06-4124,C,Glasgow,Food and beverages,48.61,1,2.43,51.04,2023-02-25,15:31:00,Cash,48.61,2.43,4.40
+735-32-9839,C,Glasgow,Fashion accessories,98.70,8,39.48,829.08,2023-01-31,10:36:00,Ewallet,789.60,39.48,8.50
+737-88-5876,A,Plymouth,Home and lifestyle,23.29,4,4.66,97.82,2023-03-19,11:52:00,Credit card,93.16,4.66,5.90
+740-11-5257,C,Glasgow,Electronic accessories,24.74,10,12.37,259.77,2023-02-24,16:44:00,Cash,247.40,12.37,7.10
+740-22-2500,C,Glasgow,Electronic accessories,84.05,3,12.61,264.76,2023-01-23,13:29:00,Cash,252.15,12.61,9.80
+741-73-3559,B,Bristol,Sports and travel,67.27,5,16.82,353.17,2023-02-27,17:27:00,Cash,336.35,16.82,6.90
+742-04-5161,A,Plymouth,Home and lifestyle,72.78,10,36.39,764.19,2023-02-03,17:24:00,Cash,727.80,36.39,7.30
+743-04-1105,B,Bristol,Health and beauty,97.22,9,43.75,918.73,2023-03-30,14:43:00,Ewallet,874.98,43.75,6.00
+743-88-1662,C,Glasgow,Sports and travel,95.49,7,33.42,701.85,2023-02-22,18:17:00,Ewallet,668.43,33.42,8.70
+744-02-5987,A,Plymouth,Home and lifestyle,78.38,6,23.51,493.79,2023-01-10,14:16:00,Ewallet,470.28,23.51,5.80
+744-09-5786,B,Bristol,Electronic accessories,22.01,6,6.60,138.66,2023-01-02,18:50:00,Cash,132.06,6.60,7.60
+744-16-7898,B,Bristol,Home and lifestyle,97.37,10,48.69,1022.39,2023-01-15,13:48:00,Credit card,973.70,48.69,4.90
+744-82-9138,C,Glasgow,Fashion accessories,86.13,2,8.61,180.87,2023-02-07,17:59:00,Cash,172.26,8.61,8.20
+745-71-3520,A,Plymouth,Electronic accessories,25.22,7,8.83,185.37,2023-02-04,10:23:00,Cash,176.54,8.83,8.20
+745-74-0715,A,Plymouth,Electronic accessories,58.03,2,5.80,121.86,2023-03-10,20:46:00,Ewallet,116.06,5.80,8.80
+746-04-1077,B,Bristol,Food and beverages,84.63,10,42.31,888.61,2023-01-01,11:36:00,Credit card,846.30,42.31,9.00
+746-19-0921,C,Glasgow,Food and beverages,21.58,1,1.08,22.66,2023-02-09,10:02:00,Ewallet,21.58,1.08,7.20
+746-54-5508,A,Plymouth,Home and lifestyle,21.52,6,6.46,135.58,2023-01-17,12:48:00,Credit card,129.12,6.46,9.40
+746-68-6593,C,Glasgow,Sports and travel,87.16,2,8.72,183.04,2023-01-11,14:29:00,Credit card,174.32,8.72,9.70
+746-94-0204,A,Plymouth,Fashion accessories,83.24,9,37.46,786.62,2023-01-29,11:56:00,Credit card,749.16,37.46,7.40
+747-58-7183,B,Bristol,Fashion accessories,57.27,3,8.59,180.40,2023-02-09,20:31:00,Ewallet,171.81,8.59,6.50
+748-45-2862,A,Plymouth,Home and lifestyle,28.31,4,5.66,118.90,2023-03-07,18:35:00,Cash,113.24,5.66,8.20
+749-24-1565,A,Plymouth,Health and beauty,23.03,9,10.36,217.63,2023-01-03,12:02:00,Ewallet,207.27,10.36,7.90
+749-81-8133,A,Plymouth,Fashion accessories,94.67,4,18.93,397.61,2023-03-11,12:04:00,Cash,378.68,18.93,6.80
+750-57-9686,C,Glasgow,Home and lifestyle,45.38,4,9.08,190.60,2023-01-08,13:48:00,Credit card,181.52,9.08,8.70
+750-67-8428,A,Plymouth,Health and beauty,74.69,7,26.14,548.97,2023-01-05,13:08:00,Ewallet,522.83,26.14,9.10
+751-15-6198,B,Bristol,Sports and travel,23.01,6,6.90,144.96,2023-01-12,16:45:00,Ewallet,138.06,6.90,7.90
+751-41-9720,C,Glasgow,Home and lifestyle,97.50,10,48.75,1023.75,2023-01-12,16:18:00,Ewallet,975.00,48.75,8.00
+751-69-0068,C,Glasgow,Sports and travel,99.24,9,44.66,937.82,2023-03-19,19:09:00,Ewallet,893.16,44.66,9.00
+752-23-3760,B,Bristol,Sports and travel,64.08,7,22.43,470.99,2023-02-19,19:29:00,Credit card,448.56,22.43,7.30
+755-12-3214,C,Glasgow,Fashion accessories,44.22,5,11.06,232.15,2023-03-05,17:07:00,Credit card,221.10,11.06,8.60
+756-01-7507,C,Glasgow,Health and beauty,20.38,5,5.09,107.00,2023-01-22,18:56:00,Cash,101.90,5.09,6.00
+756-49-0168,A,Plymouth,Fashion accessories,19.70,1,.99,20.68,2023-02-08,11:39:00,Ewallet,19.70,.99,9.50
+756-93-1854,C,Glasgow,Fashion accessories,83.35,2,8.34,175.04,2023-02-02,14:05:00,Credit card,166.70,8.34,9.50
+759-29-9521,A,Plymouth,Fashion accessories,48.96,9,22.03,462.67,2023-03-04,11:27:00,Cash,440.64,22.03,8.00
+759-98-4285,C,Glasgow,Health and beauty,85.87,7,30.05,631.14,2023-02-27,19:01:00,Credit card,601.09,30.05,8.00
+760-27-5490,C,Glasgow,Fashion accessories,15.62,8,6.25,131.21,2023-01-20,20:37:00,Ewallet,124.96,6.25,9.10
+760-53-9233,A,Plymouth,Fashion accessories,41.28,3,6.19,130.03,2023-03-26,18:37:00,Credit card,123.84,6.19,8.50
+760-54-1821,B,Bristol,Home and lifestyle,13.59,9,6.12,128.43,2023-03-15,10:26:00,Cash,122.31,6.12,5.80
+760-90-2357,A,Plymouth,Electronic accessories,74.51,6,22.35,469.41,2023-03-20,15:08:00,Ewallet,447.06,22.35,5.00
+761-49-0439,B,Bristol,Electronic accessories,12.10,8,4.84,101.64,2023-01-19,10:17:00,Ewallet,96.80,4.84,8.60
+764-44-8999,B,Bristol,Health and beauty,14.76,2,1.48,31.00,2023-02-18,14:42:00,Ewallet,29.52,1.48,4.30
+765-26-6951,A,Plymouth,Sports and travel,72.61,6,21.78,457.44,2023-01-01,10:39:00,Credit card,435.66,21.78,6.90
+766-85-7061,B,Bristol,Health and beauty,87.87,10,43.94,922.64,2023-03-29,10:25:00,Ewallet,878.70,43.94,5.10
+767-05-1286,C,Glasgow,Home and lifestyle,83.77,6,25.13,527.75,2023-01-23,12:10:00,Ewallet,502.62,25.13,5.40
+767-54-1907,B,Bristol,Fashion accessories,29.56,5,7.39,155.19,2023-02-13,16:59:00,Cash,147.80,7.39,6.90
+767-97-4650,B,Bristol,Sports and travel,64.83,2,6.48,136.14,2023-01-08,11:59:00,Credit card,129.66,6.48,8.00
+770-42-8960,B,Bristol,Food and beverages,21.12,8,8.45,177.41,2023-01-01,19:31:00,Cash,168.96,8.45,6.30
+775-72-1988,B,Bristol,Home and lifestyle,73.28,5,18.32,384.72,2023-01-24,15:05:00,Ewallet,366.40,18.32,8.40
+776-68-1096,B,Bristol,Home and lifestyle,44.12,3,6.62,138.98,2023-03-18,13:45:00,Credit card,132.36,6.62,7.90
+777-67-2495,B,Bristol,Home and lifestyle,68.97,3,10.35,217.26,2023-02-22,11:26:00,Ewallet,206.91,10.35,8.70
+777-82-7220,B,Bristol,Home and lifestyle,30.12,8,12.05,253.01,2023-03-03,13:01:00,Cash,240.96,12.05,7.70
+778-34-2523,A,Plymouth,Electronic accessories,48.62,8,19.45,408.41,2023-01-24,10:57:00,Cash,388.96,19.45,5.00
+778-71-5554,C,Glasgow,Fashion accessories,15.43,1,.77,16.20,2023-01-25,15:46:00,Credit card,15.43,.77,6.10
+778-89-7974,C,Glasgow,Health and beauty,70.21,6,21.06,442.32,2023-03-30,14:58:00,Cash,421.26,21.06,7.40
+779-06-0012,C,Glasgow,Home and lifestyle,88.61,1,4.43,93.04,2023-01-19,10:21:00,Cash,88.61,4.43,7.70
+779-42-2410,B,Bristol,Food and beverages,57.74,3,8.66,181.88,2023-02-20,13:06:00,Ewallet,173.22,8.66,7.70
+781-84-8059,C,Glasgow,Fashion accessories,60.74,7,21.26,446.44,2023-01-18,16:23:00,Ewallet,425.18,21.26,5.00
+782-95-9291,A,Plymouth,Food and beverages,92.29,5,23.07,484.52,2023-02-20,15:55:00,Credit card,461.45,23.07,9.00
+783-09-1637,B,Bristol,Sports and travel,67.43,5,16.86,354.01,2023-03-06,18:13:00,Ewallet,337.15,16.86,6.30
+784-08-0310,C,Glasgow,Food and beverages,21.04,4,4.21,88.37,2023-01-13,13:58:00,Cash,84.16,4.21,7.60
+784-21-9238,C,Glasgow,Sports and travel,10.17,1,.51,10.68,2023-02-07,14:15:00,Cash,10.17,.51,5.90
+785-13-7708,B,Bristol,Food and beverages,73.06,7,25.57,536.99,2023-01-14,19:06:00,Credit card,511.42,25.57,4.20
+785-96-0615,B,Bristol,Electronic accessories,35.74,8,14.30,300.22,2023-02-17,15:28:00,Ewallet,285.92,14.30,4.90
+786-94-2700,A,Plymouth,Food and beverages,80.62,6,24.19,507.91,2023-02-28,20:18:00,Cash,483.72,24.19,9.10
+787-15-1757,C,Glasgow,Health and beauty,44.07,4,8.81,185.09,2023-02-18,16:28:00,Ewallet,176.28,8.81,8.40
+787-56-0757,C,Glasgow,Food and beverages,80.36,4,16.07,337.51,2023-02-23,18:45:00,Credit card,321.44,16.07,8.30
+787-87-2010,A,Plymouth,Health and beauty,55.50,4,11.10,233.10,2023-01-20,15:48:00,Credit card,222.00,11.10,6.60
+788-07-8452,C,Glasgow,Home and lifestyle,24.24,7,8.48,178.16,2023-01-27,17:38:00,Ewallet,169.68,8.48,9.40
+788-21-5741,A,Plymouth,Fashion accessories,45.38,3,6.81,142.95,2023-02-17,13:34:00,Credit card,136.14,6.81,7.20
+789-23-8625,B,Bristol,Fashion accessories,93.22,3,13.98,293.64,2023-01-24,11:45:00,Cash,279.66,13.98,7.20
+790-29-1172,B,Bristol,Food and beverages,57.34,3,8.60,180.62,2023-03-10,18:59:00,Credit card,172.02,8.60,7.90
+790-38-4466,C,Glasgow,Health and beauty,10.99,5,2.75,57.70,2023-01-23,10:18:00,Credit card,54.95,2.75,9.30
+793-10-3222,B,Bristol,Health and beauty,41.06,6,12.32,258.68,2023-03-05,13:30:00,Credit card,246.36,12.32,8.30
+794-32-2436,B,Bristol,Electronic accessories,55.67,2,5.57,116.91,2023-03-27,15:08:00,Ewallet,111.34,5.57,6.00
+794-42-3736,B,Bristol,Food and beverages,33.33,2,3.33,69.99,2023-01-26,14:41:00,Credit card,66.66,3.33,6.40
+795-49-7276,A,Plymouth,Fashion accessories,37.15,4,7.43,156.03,2023-03-23,18:59:00,Ewallet,148.60,7.43,8.30
+796-12-2025,C,Glasgow,Fashion accessories,62.12,10,31.06,652.26,2023-02-11,16:19:00,Cash,621.20,31.06,5.90
+796-32-9050,A,Plymouth,Food and beverages,51.28,6,15.38,323.06,2023-01-19,16:31:00,Cash,307.68,15.38,6.50
+797-88-0493,A,Plymouth,Health and beauty,64.27,4,12.85,269.93,2023-03-26,13:54:00,Cash,257.08,12.85,7.70
+799-71-1548,A,Plymouth,Electronic accessories,77.72,4,15.54,326.42,2023-01-07,16:11:00,Credit card,310.88,15.54,8.80
+800-09-8606,A,Plymouth,Home and lifestyle,87.37,5,21.84,458.69,2023-01-29,19:45:00,Cash,436.85,21.84,6.60
+801-88-0346,C,Glasgow,Fashion accessories,76.06,3,11.41,239.59,2023-01-05,20:30:00,Credit card,228.18,11.41,9.80
+802-43-8934,A,Plymouth,Home and lifestyle,18.28,1,.91,19.19,2023-03-22,15:05:00,Credit card,18.28,.91,8.30
+802-70-5316,A,Plymouth,Sports and travel,92.13,6,27.64,580.42,2023-03-06,20:34:00,Cash,552.78,27.64,8.30
+803-17-8013,A,Plymouth,Home and lifestyle,88.79,8,35.52,745.84,2023-02-17,17:09:00,Cash,710.32,35.52,4.10
+803-83-5989,C,Glasgow,Home and lifestyle,55.73,6,16.72,351.10,2023-02-24,10:55:00,Ewallet,334.38,16.72,7.00
+804-38-3935,A,Plymouth,Electronic accessories,93.78,3,14.07,295.41,2023-01-30,11:32:00,Credit card,281.34,14.07,5.90
+805-86-0265,A,Plymouth,Home and lifestyle,93.96,9,42.28,887.92,2023-03-20,11:32:00,Cash,845.64,42.28,9.80
+807-14-7833,A,Plymouth,Electronic accessories,17.42,10,8.71,182.91,2023-02-22,12:30:00,Ewallet,174.20,8.71,7.00
+807-34-3742,A,Plymouth,Fashion accessories,52.38,1,2.62,55.00,2023-03-26,19:44:00,Cash,52.38,2.62,5.80
+808-65-0703,C,Glasgow,Home and lifestyle,35.47,4,7.09,148.97,2023-03-14,17:22:00,Credit card,141.88,7.09,6.90
+809-46-1866,A,Plymouth,Health and beauty,58.15,4,11.63,244.23,2023-01-23,17:44:00,Cash,232.60,11.63,8.40
+809-69-9497,A,Plymouth,Home and lifestyle,45.68,10,22.84,479.64,2023-01-19,19:30:00,Ewallet,456.80,22.84,5.70
+810-60-6344,C,Glasgow,Electronic accessories,40.86,8,16.34,343.22,2023-02-07,14:38:00,Credit card,326.88,16.34,6.50
+811-03-8790,A,Plymouth,Electronic accessories,45.48,10,22.74,477.54,2023-03-01,10:22:00,Credit card,454.80,22.74,4.80
+811-35-1094,B,Bristol,Electronic accessories,50.45,6,15.14,317.83,2023-02-06,15:16:00,Credit card,302.70,15.14,8.90
+815-04-6282,C,Glasgow,Sports and travel,64.97,5,16.24,341.09,2023-02-08,12:52:00,Credit card,324.85,16.24,6.50
+815-11-1168,A,Plymouth,Food and beverages,99.78,5,24.94,523.84,2023-03-09,19:09:00,Cash,498.90,24.94,5.40
+816-57-2053,A,Plymouth,Sports and travel,60.87,2,6.09,127.83,2023-03-09,12:37:00,Ewallet,121.74,6.09,8.70
+816-72-8853,A,Plymouth,Sports and travel,27.93,5,6.98,146.63,2023-01-29,15:48:00,Cash,139.65,6.98,5.90
+817-48-8732,A,Plymouth,Home and lifestyle,72.35,10,36.17,759.67,2023-01-20,15:55:00,Cash,723.50,36.17,5.40
+817-69-8206,B,Bristol,Electronic accessories,99.73,9,44.88,942.45,2023-03-02,19:42:00,Credit card,897.57,44.88,6.50
+821-07-3596,C,Glasgow,Fashion accessories,16.45,4,3.29,69.09,2023-03-07,14:53:00,Ewallet,65.80,3.29,5.60
+821-14-9046,B,Bristol,Fashion accessories,17.48,6,5.24,110.12,2023-01-18,15:04:00,Credit card,104.88,5.24,6.10
+824-88-3614,C,Glasgow,Health and beauty,34.31,8,13.72,288.20,2023-01-25,15:00:00,Ewallet,274.48,13.72,5.70
+825-94-5922,B,Bristol,Sports and travel,25.31,2,2.53,53.15,2023-03-02,19:26:00,Ewallet,50.62,2.53,7.20
+826-58-8051,B,Bristol,Home and lifestyle,62.19,4,12.44,261.20,2023-01-06,19:46:00,Ewallet,248.76,12.44,4.30
+827-26-2100,A,Plymouth,Home and lifestyle,33.84,9,15.23,319.79,2023-03-21,16:21:00,Ewallet,304.56,15.23,8.80
+827-44-5872,B,Bristol,Food and beverages,54.36,10,27.18,570.78,2023-02-07,11:28:00,Credit card,543.60,27.18,6.10
+827-77-7633,A,Plymouth,Sports and travel,98.09,9,44.14,926.95,2023-02-17,19:41:00,Cash,882.81,44.14,9.30
+828-46-6863,A,Plymouth,Food and beverages,98.53,6,29.56,620.74,2023-01-23,11:22:00,Credit card,591.18,29.56,4.00
+828-61-5674,A,Plymouth,Sports and travel,44.02,10,22.01,462.21,2023-03-20,19:57:00,Credit card,440.20,22.01,9.60
+829-34-3910,A,Plymouth,Health and beauty,71.38,10,35.69,749.49,2023-03-29,19:21:00,Cash,713.80,35.69,5.70
+829-49-1914,C,Glasgow,Food and beverages,78.31,10,39.15,822.26,2023-03-05,16:24:00,Ewallet,783.10,39.15,6.60
+830-58-2383,B,Bristol,Home and lifestyle,31.75,4,6.35,133.35,2023-02-08,15:26:00,Cash,127.00,6.35,8.60
+831-07-6050,A,Plymouth,Electronic accessories,32.71,5,8.18,171.73,2023-03-19,11:30:00,Credit card,163.55,8.18,9.90
+831-64-0259,B,Bristol,Fashion accessories,39.75,5,9.94,208.69,2023-02-22,10:43:00,Ewallet,198.75,9.94,9.60
+831-81-6575,B,Bristol,Electronic accessories,75.59,9,34.02,714.33,2023-02-23,11:12:00,Cash,680.31,34.02,8.00
+832-51-6761,A,Plymouth,Food and beverages,33.88,8,13.55,284.59,2023-01-19,20:29:00,Ewallet,271.04,13.55,9.60
+834-25-9262,C,Glasgow,Fashion accessories,81.68,4,16.34,343.06,2023-01-06,12:12:00,Cash,326.72,16.34,9.10
+834-45-5519,B,Bristol,Electronic accessories,43.00,4,8.60,180.60,2023-01-31,20:48:00,Ewallet,172.00,8.60,7.60
+834-61-8124,A,Plymouth,Electronic accessories,51.69,7,18.09,379.92,2023-01-26,18:22:00,Cash,361.83,18.09,5.50
+834-83-1826,B,Bristol,Home and lifestyle,82.04,5,20.51,430.71,2023-02-25,17:16:00,Credit card,410.20,20.51,7.60
+835-16-0096,C,Glasgow,Sports and travel,14.70,5,3.67,77.18,2023-03-24,13:48:00,Ewallet,73.50,3.67,8.50
+836-82-5858,B,Bristol,Health and beauty,69.37,9,31.22,655.55,2023-01-26,19:14:00,Ewallet,624.33,31.22,4.00
+837-55-7229,B,Bristol,Fashion accessories,47.44,1,2.37,49.81,2023-02-22,18:19:00,Credit card,47.44,2.37,6.80
+838-02-1821,C,Glasgow,Home and lifestyle,12.73,2,1.27,26.73,2023-02-22,12:10:00,Credit card,25.46,1.27,5.20
+838-78-4295,C,Glasgow,Health and beauty,33.47,2,3.35,70.29,2023-02-10,15:43:00,Ewallet,66.94,3.35,6.70
+840-19-2096,C,Glasgow,Electronic accessories,87.91,5,21.98,461.53,2023-03-14,18:10:00,Ewallet,439.55,21.98,4.40
+840-76-5966,A,Plymouth,Sports and travel,12.76,2,1.28,26.80,2023-01-08,18:06:00,Ewallet,25.52,1.28,7.80
+841-18-8232,B,Bristol,Food and beverages,71.20,1,3.56,74.76,2023-01-05,20:40:00,Credit card,71.20,3.56,9.20
+841-35-6630,C,Glasgow,Electronic accessories,75.91,6,22.77,478.23,2023-03-09,18:21:00,Cash,455.46,22.77,8.70
+842-29-4695,C,Glasgow,Sports and travel,17.14,7,6.00,125.98,2023-01-16,12:07:00,Credit card,119.98,6.00,7.90
+842-40-8179,B,Bristol,Food and beverages,77.20,10,38.60,810.60,2023-02-11,10:38:00,Credit card,772.00,38.60,5.60
+843-01-4703,B,Bristol,Home and lifestyle,35.38,9,15.92,334.34,2023-01-05,19:50:00,Credit card,318.42,15.92,9.60
+843-73-4724,A,Plymouth,Fashion accessories,74.10,1,3.70,77.81,2023-01-25,11:05:00,Cash,74.10,3.70,9.20
+845-51-0542,B,Bristol,Food and beverages,46.55,9,20.95,439.90,2023-02-02,15:34:00,Ewallet,418.95,20.95,6.40
+845-94-6841,C,Glasgow,Food and beverages,72.88,9,32.80,688.72,2023-01-08,19:38:00,Cash,655.92,32.80,4.00
+846-10-0341,A,Plymouth,Fashion accessories,42.57,7,14.90,312.89,2023-01-06,11:51:00,Cash,297.99,14.90,6.80
+847-38-7188,B,Bristol,Food and beverages,96.68,3,14.50,304.54,2023-01-26,19:56:00,Ewallet,290.04,14.50,6.40
+848-07-1692,B,Bristol,Health and beauty,57.22,2,5.72,120.16,2023-01-12,17:13:00,Ewallet,114.44,5.72,8.30
+848-24-9445,C,Glasgow,Health and beauty,43.70,2,4.37,91.77,2023-03-26,18:03:00,Cash,87.40,4.37,4.90
+848-42-2560,A,Plymouth,Fashion accessories,81.91,2,8.19,172.01,2023-03-05,17:43:00,Cash,163.82,8.19,7.80
+848-62-7243,A,Plymouth,Health and beauty,24.89,9,11.20,235.21,2023-03-15,15:36:00,Cash,224.01,11.20,7.40
+848-95-6252,C,Glasgow,Home and lifestyle,86.27,1,4.31,90.58,2023-02-20,13:24:00,Ewallet,86.27,4.31,7.00
+849-09-3807,A,Plymouth,Fashion accessories,88.34,7,30.92,649.30,2023-02-18,13:28:00,Cash,618.38,30.92,6.60
+850-41-9669,A,Plymouth,Electronic accessories,75.06,9,33.78,709.32,2023-03-19,13:25:00,Ewallet,675.54,33.78,6.20
+851-28-6367,A,Plymouth,Sports and travel,15.50,10,7.75,162.75,2023-03-23,10:55:00,Ewallet,155.00,7.75,8.00
+851-98-3555,B,Bristol,Health and beauty,82.88,5,20.72,435.12,2023-03-24,14:08:00,Credit card,414.40,20.72,6.60
+852-62-7105,B,Bristol,Fashion accessories,83.25,10,41.63,874.13,2023-01-12,11:25:00,Credit card,832.50,41.63,4.40
+852-82-2749,A,Plymouth,Sports and travel,64.59,4,12.92,271.28,2023-01-06,13:35:00,Ewallet,258.36,12.92,9.30
+853-23-2453,B,Bristol,Health and beauty,75.74,4,15.15,318.11,2023-02-14,14:35:00,Cash,302.96,15.15,7.60
+856-22-8149,A,Plymouth,Home and lifestyle,25.29,1,1.26,26.55,2023-03-23,10:13:00,Ewallet,25.29,1.26,6.10
+856-66-2701,A,Plymouth,Home and lifestyle,53.30,3,7.99,167.90,2023-01-25,14:19:00,Ewallet,159.90,7.99,7.50
+857-16-3520,A,Plymouth,Fashion accessories,71.46,7,25.01,525.23,2023-03-28,16:06:00,Ewallet,500.22,25.01,4.50
+857-67-9057,B,Bristol,Electronic accessories,22.95,10,11.48,240.98,2023-02-06,19:20:00,Ewallet,229.50,11.48,8.20
+859-71-0933,C,Glasgow,Sports and travel,15.49,2,1.55,32.53,2023-01-16,15:10:00,Cash,30.98,1.55,6.30
+859-97-6048,C,Glasgow,Electronic accessories,84.25,2,8.43,176.93,2023-03-26,14:13:00,Credit card,168.50,8.43,5.30
+860-73-6466,A,Plymouth,Sports and travel,39.47,2,3.95,82.89,2023-03-02,16:16:00,Credit card,78.94,3.95,5.00
+860-79-0874,C,Glasgow,Fashion accessories,99.30,10,49.65,1042.65,2023-02-15,14:53:00,Credit card,993.00,49.65,6.60
+861-77-0145,C,Glasgow,Electronic accessories,81.97,10,40.99,860.68,2023-03-03,14:30:00,Cash,819.70,40.99,9.20
+862-17-9201,B,Bristol,Food and beverages,84.05,6,25.22,529.52,2023-01-29,10:48:00,Credit card,504.30,25.22,7.70
+862-29-5914,C,Glasgow,Sports and travel,22.38,1,1.12,23.50,2023-01-30,17:08:00,Credit card,22.38,1.12,8.60
+862-59-8517,C,Glasgow,Food and beverages,90.24,6,27.07,568.51,2023-01-27,11:17:00,Cash,541.44,27.07,6.20
+864-24-7918,A,Plymouth,Sports and travel,24.49,10,12.24,257.14,2023-02-22,15:15:00,Cash,244.90,12.24,8.10
+865-41-9075,A,Plymouth,Food and beverages,11.53,7,4.04,84.75,2023-01-28,17:35:00,Cash,80.71,4.04,8.10
+865-92-6136,A,Plymouth,Food and beverages,52.75,3,7.91,166.16,2023-03-23,10:16:00,Ewallet,158.25,7.91,9.30
+866-05-7563,B,Bristol,Electronic accessories,81.40,3,12.21,256.41,2023-02-09,19:43:00,Cash,244.20,12.21,4.80
+866-70-2814,B,Bristol,Electronic accessories,52.79,10,26.40,554.29,2023-02-25,11:58:00,Ewallet,527.90,26.40,10.00
+866-99-7614,C,Glasgow,Food and beverages,89.20,10,44.60,936.60,2023-02-11,15:42:00,Credit card,892.00,44.60,4.40
+867-47-1948,C,Glasgow,Home and lifestyle,15.80,10,7.90,165.90,2023-01-09,12:07:00,Cash,158.00,7.90,7.80
+868-06-0466,A,Plymouth,Electronic accessories,69.58,9,31.31,657.53,2023-02-19,19:38:00,Credit card,626.22,31.31,7.80
+868-52-7573,B,Bristol,Food and beverages,99.69,5,24.92,523.37,2023-01-14,12:09:00,Cash,498.45,24.92,9.90
+868-81-1752,B,Bristol,Home and lifestyle,22.02,9,9.91,208.09,2023-02-07,18:48:00,Cash,198.18,9.91,6.80
+869-11-3082,B,Bristol,Health and beauty,96.16,4,19.23,403.87,2023-01-27,20:03:00,Credit card,384.64,19.23,8.40
+870-54-3162,A,Plymouth,Sports and travel,32.25,5,8.06,169.31,2023-01-27,13:26:00,Cash,161.25,8.06,9.00
+870-72-4431,C,Glasgow,Health and beauty,99.19,6,29.76,624.90,2023-01-21,14:42:00,Credit card,595.14,29.76,5.50
+870-76-1733,A,Plymouth,Food and beverages,14.23,5,3.56,74.71,2023-02-01,10:08:00,Credit card,71.15,3.56,4.40
+871-39-9221,C,Glasgow,Electronic accessories,12.45,6,3.73,78.43,2023-02-09,13:11:00,Cash,74.70,3.73,4.10
+871-79-8483,B,Bristol,Fashion accessories,94.13,5,23.53,494.18,2023-02-25,19:39:00,Credit card,470.65,23.53,4.80
+873-14-6353,A,Plymouth,Food and beverages,24.82,7,8.69,182.43,2023-02-16,10:33:00,Credit card,173.74,8.69,7.10
+873-51-0671,A,Plymouth,Sports and travel,21.98,7,7.69,161.55,2023-01-10,16:42:00,Ewallet,153.86,7.69,5.10
+873-95-4984,B,Bristol,Health and beauty,76.90,7,26.92,565.22,2023-02-15,20:21:00,Cash,538.30,26.92,7.70
+875-31-8302,B,Bristol,Sports and travel,93.38,1,4.67,98.05,2023-01-03,13:07:00,Cash,93.38,4.67,9.60
+875-46-5808,B,Bristol,Health and beauty,25.90,10,12.95,271.95,2023-02-06,14:51:00,Ewallet,259.00,12.95,8.70
+877-22-3308,A,Plymouth,Health and beauty,15.87,10,7.93,166.63,2023-03-13,16:40:00,Cash,158.70,7.93,5.80
+878-30-2331,C,Glasgow,Sports and travel,54.55,10,27.27,572.78,2023-03-02,11:22:00,Credit card,545.50,27.27,7.10
+880-35-0356,A,Plymouth,Sports and travel,75.20,3,11.28,236.88,2023-02-05,11:51:00,Ewallet,225.60,11.28,4.80
+880-46-5796,A,Plymouth,Sports and travel,76.92,10,38.46,807.66,2023-03-17,19:53:00,Ewallet,769.20,38.46,5.60
+881-41-7302,C,Glasgow,Fashion accessories,64.99,1,3.25,68.24,2023-01-26,10:06:00,Credit card,64.99,3.25,4.50
+882-40-4577,A,Plymouth,Sports and travel,67.26,4,13.45,282.49,2023-01-19,15:28:00,Credit card,269.04,13.45,8.00
+883-17-4236,C,Glasgow,Sports and travel,14.39,2,1.44,30.22,2023-03-02,19:44:00,Credit card,28.78,1.44,7.20
+883-69-1285,B,Bristol,Fashion accessories,49.92,2,4.99,104.83,2023-03-06,11:55:00,Credit card,99.84,4.99,7.00
+884-80-6021,A,Plymouth,Electronic accessories,73.47,10,36.74,771.43,2023-03-23,13:14:00,Ewallet,734.70,36.74,9.50
+885-17-6250,A,Plymouth,Health and beauty,79.74,1,3.99,83.73,2023-03-06,10:36:00,Ewallet,79.74,3.99,7.30
+885-56-0389,C,Glasgow,Fashion accessories,52.35,1,2.62,54.97,2023-02-12,17:49:00,Cash,52.35,2.62,4.00
+886-18-2897,A,Plymouth,Food and beverages,56.56,5,14.14,296.94,2023-03-22,19:06:00,Credit card,282.80,14.14,4.50
+886-54-6089,A,Plymouth,Home and lifestyle,11.43,6,3.43,72.01,2023-01-15,17:24:00,Cash,68.58,3.43,7.70
+886-77-9084,C,Glasgow,Electronic accessories,71.89,8,28.76,603.88,2023-02-19,11:33:00,Ewallet,575.12,28.76,5.50
+887-42-0517,C,Glasgow,Sports and travel,83.14,7,29.10,611.08,2023-01-10,10:31:00,Credit card,581.98,29.10,6.60
+888-02-0338,A,Plymouth,Electronic accessories,26.23,9,11.80,247.87,2023-01-25,20:24:00,Ewallet,236.07,11.80,5.90
+889-04-9723,B,Bristol,Food and beverages,89.14,4,17.83,374.39,2023-01-07,12:20:00,Credit card,356.56,17.83,7.80
+891-01-7034,B,Bristol,Electronic accessories,74.71,6,22.41,470.67,2023-01-01,19:07:00,Cash,448.26,22.41,6.70
+891-58-8335,B,Bristol,Sports and travel,29.61,7,10.36,217.63,2023-03-11,15:53:00,Cash,207.27,10.36,6.50
+892-05-6689,A,Plymouth,Home and lifestyle,28.32,5,7.08,148.68,2023-03-11,13:28:00,Ewallet,141.60,7.08,6.20
+894-41-5205,C,Glasgow,Food and beverages,43.18,8,17.27,362.71,2023-01-19,19:39:00,Credit card,345.44,17.27,8.30
+895-03-6665,B,Bristol,Fashion accessories,36.51,9,16.43,345.02,2023-02-16,10:52:00,Cash,328.59,16.43,4.20
+895-66-0685,B,Bristol,Food and beverages,18.08,3,2.71,56.95,2023-03-05,19:46:00,Ewallet,54.24,2.71,8.00
+896-34-0956,A,Plymouth,Fashion accessories,21.32,1,1.07,22.39,2023-01-26,12:43:00,Cash,21.32,1.07,5.90
+898-04-2717,A,Plymouth,Fashion accessories,76.40,9,34.38,721.98,2023-03-19,15:49:00,Ewallet,687.60,34.38,7.50
