@@ -1,18 +1,15 @@
 # Super Store Dashboard using Streamlit
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. In this dashboard we'll give it a try and turn everything into a readable visualizations.
 
-**Designed by:**
- <br>@mohamedyosef101 : https://linkedin.com/in/mohamedyosef101
- <br>
- 
- **Deployed on:**
- <br> Streamlit: https://super-dashboard.streamlit.app
-
+**Designed by:** [@mohamedyosef101](https://github.com/mohamedyosef101)
+<br> 
+ **Deployed on:** [Streamlit](https://super-dashboard.streamlit.app)
 <hr>
+<div><br></div>
 
 # About the dataset
 The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data.
-[Visit Data Source](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
+<br> [Visit Data Source](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 
 ### Versioning
@@ -22,9 +19,11 @@ The dataset is one of the historical sales of supermarket company which has reco
 - Made with Python 3.11
 
 <hr>
+<div><br></div>
 
 # I've changed the database a little
 Since this is a visualization work, I've a freedom to change the database to make my job easier.
+<div><br></div>
 
 ### **Add four years to the date**
 Actually and for the first time, I worked with SQL not pandas.
@@ -34,6 +33,7 @@ UPDATE superSales
 SET Order_date = DATEADD(YEAR, 4, Order_date)
 WHERE YEAR(Order_date) = 2019
 ```
+<div><br></div>
 
 ### **Add cities**
 Before: each branch has a unique identifier A, B, C
@@ -50,9 +50,11 @@ select City from superSales;
 ```
 
 <hr>
+<div><br></div>
 
 # Building The Dashboard with Streamlit
 > These are some highlights from the code not the whole code.
+<div><br></div>
 
 ### 1. Importing the libraries
 We’ll need core data analysis libraries like Pandas, NumPy as well as plotting libraries like Plotly Express. Streamlit is imported as st.
@@ -62,6 +64,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 ```
+<div><br></div>
 
 ### 2. Getting Ready
 I loaded a supermarket sales CSV file using Pandas, did some preprocessing like setting page config as well as creating the layout variables.
@@ -83,6 +86,7 @@ midRow = st.container()
 chartRow = st.container()
 footer = st.container()
 ```
+<div><br></div>
 
 ### 3. Editing the sidebar
 Sidebars in Streamlit provide an easy way to add filters that users can tweak to update the dashboard.
@@ -111,6 +115,7 @@ with st.sidebar:
     st.title(":anchor: About the dataset")
     st.markdown("The growth of supermarkets in most populated cities are increasing and market competitions are also high. In this dashboard we'll give it a try and turn everything into a readable visualizations.")
 ```
+<div><br></div>
 
 ### 4. I also added selectbox filters to choose Product Line….
 
@@ -143,6 +148,7 @@ with st.sidebar:
     </style>
     ''', unsafe_allow_html=True)
 ```
+<div><br></div>
 
 ### 5. The most importan part: THE CHART
 
@@ -172,6 +178,8 @@ with chartRow:
     st.plotly_chart(fig_quantity)
 
 ```
+<div><br></div>
+
 ### 6. Deploying the Dashboard
 Once ready, I deployed the app using Streamlit sharing which provides free hosting for Streamlit apps!
 
@@ -179,8 +187,9 @@ This allows me to share the interactive dashboard with anyone.
 
 For more about the deployment: https://youtu.be/B0MUXtmSpiA
 
+<div><br></div>
 
 <hr>
 🔔 Follow me for more <b>Product Data Science</b> work.
 <hr>
-<p>&copy; Created by MohamedYosef101 |  &centerdot; <a href="https://github.com/mohamedyosef101"> GitHub</a> <a href="https://linkedin.com/in/mohamedyosef101">LinkedIn</a> &centerdot; <a href="https://kaggle.com/mohamedyosef101">Kaggle</a></p>
+<p>&copy; Created by MohamedYosef101 | <a href="https://github.com/mohamedyosef101"> GitHub</a> &centerdot; <a href="https://linkedin.com/in/mohamedyosef101">LinkedIn</a> &centerdot; <a href="https://kaggle.com/mohamedyosef101">Kaggle</a></p>
