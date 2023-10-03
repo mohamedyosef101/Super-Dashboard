@@ -1,6 +1,9 @@
 # Super Store Dashboard using Streamlit
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. In this dashboard we'll give it a try and turn everything into a readable visualizations.
 
+![top stats](https://github.com/mohamedyosef101/Super-Dashboard/assets/118842452/5438b91a-cb6c-499e-a95b-402c076cbbf8)
+
+
 **Designed by:** [@mohamedyosef101](https://github.com/mohamedyosef101)
 <br> 
  **Deployed on:** [Streamlit](https://super-dashboard.streamlit.app)
@@ -91,6 +94,7 @@ footer = st.container()
 ### 3. Editing the sidebar
 Sidebars in Streamlit provide an easy way to add filters that users can tweak to update the dashboard.
 
+
 ```python
 # Sidebar
 with st.sidebar:
@@ -118,6 +122,9 @@ with st.sidebar:
 <div><br></div>
 
 ### 4. I also added selectbox filters to choose Product Line….
+
+<img width="560" alt="sidebar" src="https://github.com/mohamedyosef101/Super-Dashboard/assets/118842452/79912ea2-6c1a-4ba0-adb6-c36f99d05365">
+
 
 ```python
 # The Selectbox
@@ -151,6 +158,8 @@ with st.sidebar:
 <div><br></div>
 
 ### 5. The most importan part: THE CHART
+
+<img width="560" alt="main chart" src="https://github.com/mohamedyosef101/Super-Dashboard/assets/118842452/3df137ad-b4f0-4af7-8ecc-3464c5ed858f">
 
 ```python
 with chartRow:
